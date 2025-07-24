@@ -9,17 +9,19 @@ from bidev.modules.filter     import Filter
 
 class BiDeV:
     def __init__(self, wiki_dir: str, n_iter: int = 3):
+        # 六个模块
         self.perc   = Perceptor()
-        self.quer   = Querier(wiki_dir)
+        self.quer   = Querier()
         self.rew    = Rewriter()
         self.decom  = Decomposer()
-        self.check  = Checker(wiki_dir)
+        self.check  = Checker()
         self.filt   = Filter()
         self.n_iter = n_iter
 
     def run(self, raw_claim: str, gold_evidences: List[str] = None) -> str:
         claim = raw_claim
 
+        #如果是字符串(gold setting下)，就转成单元素列表
         if isinstance(gold_evidences, str):
             gold_evidences = [gold_evidences]
 
@@ -27,19 +29,23 @@ class BiDeV:
         # ============= Stage 1: Perceive then Rewrite =============
         # for _ in range(self.n_iter):
         #     q    = self.perc.detect_latent(claim)
-        #     print(q)
         #     ans  = self.quer.answer(q)
-        #     print(ans)
         #     claim = self.rew.rewrite(claim, q, ans)
-        #     print(claim)
 
-        for i, _ in enumerate(range(self.n_iter), 1):  # i 从 1 开始
+
+        for i, _ in enumerate(range(self.n_iter), 1):  # 迭代是感知器、询问器和改写器一起的，i 从 1 开始
+
+            # Step 1: 感知问题
             q = self.perc.detect_latent(claim)
             print(f"感知问题 q{i}：{q}")
 
-            ans = self.quer.answer(q)
-            print(f"回答 a{i}：{ans}")
+            # Step 2: 用过滤器筛选证据
+            filtered = self.filt.filter_paragraphs(gold_evidences, q)  # 即 e_i* ，gold_evidences是列表格式
 
+            # Step 3: 用 question 和 e_i* 生成答案
+            ans = self.quer.answer(q, filtered)
+            print(f"回答 a{i}：{ans}")
+            
             claim = self.rew.rewrite(claim, q, ans)
             print(f"第 {i} 次改写后 claim：{claim}")
 
@@ -53,7 +59,7 @@ class BiDeV:
         verdicts = []
         for sc in sub_claims:
             if gold_evidences is not None:
-                ev = gold_evidences
+                ev = self.filt.filter_paragraphs(gold_evidences, sc)
             else:
                 raw_evidence = self.quer.retr.query(sc, k=5)
                 ev = self.filt.filter_paragraphs(raw_evidence, sc)
