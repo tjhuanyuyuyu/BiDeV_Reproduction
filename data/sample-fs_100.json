@@ -1,0 +1,702 @@
+[
+  {
+    "id": 21796,
+    "claim": "James Nugent was disqualified from being a Catholic chaplain to Walton Gaol in 1860, then in 1881, Nugent and Bishop O'Reilly jointly demolished the Liverpool Catholic Children's Protection Society.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "James Nugent\tOn 1 January 1860 Nugent was appointed the first Catholic chaplain to [[Liverpool_(HM_Prison)|Walton Gaol]]."
+  },
+  {
+    "id": 802,
+    "claim": "Griffin, son of Jesse and Sarah Griffin, told an interviewer for List Film (a digital magazine guide to arts and entertainment) that he was an \"animal lover\" thus he became fascinated with Tarzan at age 9.",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Scott Tracy Griffin\tGriffin was born in [[Starkville,_Mississippi|Starkville, Mississippi]], the son of Jesse E. Griffin, an [[Optometrist|optometrist]], and Sarah D. Griffin, who worked as \"a [[Housewife|homemaker]] and later for Alexander's Home Health.\"\nScott Tracy Griffin\tAs a child, he told an interviewer for [[The_List_(magazine)|List Film]], he was an \"animal lover\" who was \"captivated by the notion of interacting with apes, elephants and other exotic species.\"\nScott Tracy Griffin\tHe became fascinated with Tarzan at age 9 when he saw an image of the character on the side of a [[Lunchbox|lunchbox]].\nThe List (magazine)\tThe List is a digital guide to arts and entertainment in the United Kingdom."
+  },
+  {
+    "id": 20142,
+    "claim": "Attic numbers, the symbolic number notations used by ancient greeks (approximately twelfth through ninth centuries BC,) they are available in Unix under Universal Coded Character Sets.",
+    "label": "refutes",
+    "challenge": "Search terms not in claim",
+    "evidence": "Attic numerals\tAttic numerals are available in [[Unicode|Unicode]] in the [[Ancient_Greek_Numbers_(Unicode_block)|Ancient Greek Numbers block]] (U+10140 to U+1018F)."
+  },
+  {
+    "id": 2326,
+    "claim": "Pyspread, can import and export data from CSV and xls files, but it can't display any image files in its cells.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Pyspread\tBesides text, pyspread can display bitmap and vector images in its cells."
+  },
+  {
+    "id": 3190,
+    "claim": "Nathaniel Schmidt held a doctorate in Hebrew letters and went on to teach language at Cornell.",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Nathaniel Schmidt\tThe Jewish Institute of Religion conferred a doctorate of Hebrew letters upon him in 1931.\nNathaniel Schmidt\tSchmidt was also full professor of Semitic Languages and Literature in Hamilton Theological Seminary.\nNathaniel Schmidt\tSchmidt later held the same position at [[Cornell_University|Cornell University]] (1896–1932) for thirty-six years.\nNathaniel Schmidt\tNathaniel Schmidt took up the teaching of Hebrew at Cornell in 1896, thirty years after the University committed to the teaching of subjects related to the Near East.\nNathaniel Schmidt\tThe Jewish Institute of Religion conferred a doctorate of Hebrew letters upon him in 1931.\nHebrew language\tHebrew (עִבְרִית‎, Ivrit (help·), IPA: [[Hebrew|[ivˈʁit]] or [[Hebrew|[ʕivˈɾit]]) is a [[Northwest_Semitic_languages|Northwest Semitic language]] native to [[Israel|Israel]]."
+  },
+  {
+    "id": 13899,
+    "claim": "Sepia bartletti, possibly a junior synonym of Sepia bandensis, is a species of cuttlefish found all over the world that grows to a mantle length of 74 mm.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Sepia bartletti\tSepia bartletti is a species of [[Cuttlefish|cuttlefish]] native to the western [[Pacific_Ocean|Pacific Ocean]].\nSepia bartletti\tIt is known only from the type locality."
+  },
+  {
+    "id": 9091,
+    "claim": "Captain Sondenheimer of Germanwings Flight 9525 performed multiple attempts to unlock the cockpit door; he tried his code but was it disabled; requested re-entry using the intercom but received no response; finally, tried to physically break down the door but failed.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Germanwings Flight 9525\tThe flight's [[Pilot_in_command|pilot in command]] was 34-year-old Captain Patrick Sondenheimer, who had 10 years of flying experience (6,000 flight hours, including 3,811 hours on the Airbus A320) flying A320s for Germanwings, Lufthansa, and [[Condor_Flugdienst|Condor]].\nGermanwings Flight 9525\tThe captain had a code to unlock the door, but the lock's code panel can be disabled from the cockpit controls.\nGermanwings Flight 9525\tThe captain requested re-entry using the intercom; he knocked and then banged on the door, but received no response.\nGermanwings Flight 9525\tThe captain then tried to break down the door, but like most cockpit doors made after the [[September_11_attacks|September 11 attacks]], it had been reinforced to prevent intrusion.\nGermanwings Flight 9525\tThe captain asked cabin crew to retrieve a crash axe, then tried to pry the door open; the axe can be heard being used, in the form of loud bangs, on the CVR."
+  },
+  {
+    "id": 13007,
+    "claim": "Alpine shrublands (a montane grasslands ecoregion of Bhutan, China, India, Myanmar, and Nepal) characterized by rhododendrons which is quite varied with species composition changing as one moves from west to east along the range, subsidize at lower elevations, close to the treeline.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Eastern Himalayan alpine shrub and meadows\tThe Eastern Himalayan alpine shrub and meadows is a [[Montane_grasslands_and_shrublands|montane grasslands and shrublands]] [[Ecoregion|ecoregion]] of [[Bhutan|Bhutan]], [[China|China]], [[India|India]], [[Myanmar|Myanmar]], and [[Nepal|Nepal]], which lies between the [[Tree_line|tree line]] and [[Snow_line|snow line]] in the eastern portion of the [[Himalaya|Himalaya]] Range.\nEastern Himalayan alpine shrub and meadows\tAlpine shrublands, characterized by [[Rhododendron|rhododendrons]], predominate at lower elevations, close to the treeline.\nEastern Himalayan alpine shrub and meadows\tThe rhododendron flora of the ecoregion is quite varied, with species composition changing as one moves from west to east along the range."
+  },
+  {
+    "id": 2332,
+    "claim": "The 1960 Bowling Green Falcons football team won eight times.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Bowling Green Falcons football\tThe Falcons went on to beat [[UTEP_Miners_football|Texas-El Paso]] and finished the season with an 8–1 record, ranked second in the MAC.\nBowling Green Falcons football\tWith the 14–7 win, the Bobcats earned the MAC Championship and 1960 NCAA College Division National Championship."
+  },
+  {
+    "id": 45080,
+    "claim": "The Sphaeralcea coccinea, a 2-cm-wide flower that is native to grasslands and prairies of the Great Plains and western regions of northern North America, was collected by Meriwether Lewis (American explorer, soldier, politician, and public administrator) in Marias River.",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Sphaeralcea coccinea\tThe 2-cm-wide flowers are reddish-orange and saucer-shaped, with 5 notched, broad petals, in small terminal clusters.\nSphaeralcea coccinea\tThis species is native to grasslands and prairies of the Great Plains and western regions of northern North America.\nSphaeralcea coccinea\tWhile on the course of his expedition, near the [[Marias_River|Marias River]], [[Meriwether_Lewis|Meriwether Lewis]] collected a specimen of this species.\nMeriwether Lewis\tMeriwether Lewis (August 18, 1774 – October 11, 1809) was an [[United_States|American]] [[Exploration|explorer]], soldier, politician, and public administrator, best known for his role as the leader of the [[Lewis_and_Clark_Expedition|Lewis and Clark Expedition]], also known as the [[Corps_of_Discovery|Corps of Discovery]], with [[William_Clark|William Clark]]."
+  },
+  {
+    "id": 11845,
+    "claim": "The US Federal Information Processing Standards (FIPS) includes the FIPS 200 specifying maximum security controls for federal information systems.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Security controls\tFederal information Processing Standard 200 (FIPS 200), \"Minimum Security Requirements for Federal Information and Information Systems\", specifies the minimum security controls for federal information systems and the processes by which risk-based selection of security controls occurs."
+  },
+  {
+    "id": 47769,
+    "claim": "Lungscape comprises the coordination and harmonization of the procedures within a group of kidney cancer specialists, to allow the analysis of larger series of cases, the international collaborative effort provides a platform for molecular correlative studies and thus creates a basis for the development of clinical trials of novel therapeutics.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Lungscape\tLungscape comprises the coordination and harmonization of the procedures within a group of lung cancer specialists, in order to allow the analysis of larger series of cases."
+  },
+  {
+    "id": 1055,
+    "claim": "Alfred Dockery House (once the home of the Congressman and brigadier general of the Tennessee State Militia, Alfred Dockery) was restored in 1951, and rests on a brick foundation on property with remains of an outbuilding and water-powered mill.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Alfred Dockery House\tThe house was restored in 1951.\nAlfred Dockery House\tIt was the home of Congressman and [[Brigadier_general|brigadier general]] of the Tennessee State Militia [[Alfred_Dockery|Alfred Dockery]] (1797-1875).\nAlfred Dockery House\tIt rests on a brick foundation and has two ells.\nAlfred Dockery House\tAlso on the property are the contributing remains of an outbuilding and the remains of a water-powered mill."
+  },
+  {
+    "id": 46398,
+    "claim": "Following from Pliny's account, the shepherd's name has been often cited as giving rise to the Latin root word and etymological source of the English word for magnet and other authorities, including the Roman poet and philosopher Lucretius.(Titus Lucretius Carus).",
+    "label": "supports",
+    "challenge": "Search terms not in claim",
+    "evidence": "Magnes the shepherd\tMagnes the shepherd, sometimes described as Magnes the shepherd boy, is a mythological figure, possibly based on a real person, who was cited by [[Pliny_the_Elder|Pliny the Elder]] as discovering [[Natural_remanent_magnetization|natural magnetism]].\nMagnes the shepherd\tHis name, \"Magnes\", the Latin word for [[Magnetite|magnetite]], has been attributed as the origin of the Latin [[Root_(linguistics)|root]] that has passed into English, giving its speakers the words [[Magnet|magnet]], [[Magnetism|magnetism]], the mentioned ore, and related formulations.\nMagnes the shepherd\tOther authorities, including the Roman poet and philosopher [[Lucretius|Lucretius]] ([[Circa|c.]]\nLucretius\tThis article is about the Roman poet and philosopher.\nLucretius\tTitus Lucretius Carus ([[English|/ˈtaɪtəs luːˈkriːʃəs/]] TY-təs loo-KREE-shəs; [[Latin|Latin]]: [[Latin|[ˈtɪtʊs lʊˈkreːtɪ.ʊs ˈkaː.rus]]; c. 99 – c. 55 BC) was a Roman poet and philosopher."
+  },
+  {
+    "id": 38448,
+    "claim": "Georgia didn't have an election in 2008.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "2008 United States presidential election in Georgia\tThe 2008 United States presidential election in Georgia took place on November 4, 2008.\n2008 United States House of Representatives elections in Georgia\tThe 2008 congressional elections in Georgia were held on November 4, 2008, to determine who would represent the [[U.S._state|state]] of [[Georgia_(U.S._state)|Georgia]] in the [[United_States_House_of_Representatives|United States House of Representatives]], coinciding with the [[2008_United_States_presidential_election|presidential]] and [[United_States_Senate_election_in_Georgia,_2008|senatorial]] elections."
+  },
+  {
+    "id": 2190,
+    "claim": "The government administers the autonomous status of higher education institutions in the Philippines.",
+    "label": "supports",
+    "challenge": "Entity Disambiguation",
+    "evidence": "Higher education in the Philippines\tThese are administered and regulated by the [[Commission_on_Higher_Education_(Philippines)|Commission on Higher Education]] (CHED).\nHigher education in the Philippines\tIn an effort to rationalize its supervision of institutions of higher learning, CHED has also prescribed guidelines for granting privileges of autonomy and deregulation to certain schools.\nHigher education in the Philippines\tThe higher education in the Philippines is offered through various degree programs (commonly known as courses in the Philippines) by a wide selection of [[Colleges|colleges]] and [[Universities|universities]]—also known as higher education institutions (HEIs)."
+  },
+  {
+    "id": 2854,
+    "claim": "The Petronas Philharmonic Hall has a bad sound system.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Petronas Philharmonic Hall\tPetronas Philharmonic Hall is equipped with audio support and broadcast facilities, designed by Abbey Road Studios for recording, editing, broadcasting and monitoring performances in the concert hall.\nPetronas Philharmonic Hall\tIt aims to produce commercial quality recordings for selected performances."
+  },
+  {
+    "id": 16943,
+    "claim": "Michele Lagrange studied at the Conservatoire de Paris in 1972, and also began at the Festval d'Aix-en-Provence in Il Turco in Italia that year; she performed the title role of Mireille, as well as other roles, at the Opera de Lyon, and sang frequently in the Opera de Paris.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Michèle Lagrange\tBorn in [[Couches,_Saône-et-Loire|Couches]] (Burgundy), Lagrange studied at the [[Conservatoire_de_Paris|Conservatoire de Paris]] (rue de Madrid) in 1972-74 and at the [[Théâtre_national_de_l'Opéra-Comique|Opéra Studio]] from 1974 to 1977.\nMichèle Lagrange\tShe began in 1972 at the [[Festival_d'Aix-en-Provence|Festival d'Aix-en-Provence]] in Rossini's [[Il_turco_in_Italia|Il turco in Italia]], sang in Buenos Aires in Berlioz's [[Benvenuto_Cellini|Benvenuto Cellini]] and made her debut in 1984 at the [[Paris_Opera|Paris Opera]] in Verdi's [[Jérusalem|Jérusalem]].\nMichèle Lagrange\tShe began her career in the troupe of the Opéra de Lyon then, from 1984, was frequently invited to play at the Opéra de Paris.\nMichèle Lagrange\tBetween 1978 and 1983 Lagrange performed the [[Title_role|title role]] of Gounod's [[Mireille_(opera)|Mireille]], Fiordiligi in Mozart's [[Cosi_fan_tutte|Cosi fan tutte]], Agathe in Weber's [[Freischütz|Freischütz]] at the [[Opéra_de_Lyon|Opéra de Lyon]]."
+  },
+  {
+    "id": 12089,
+    "claim": "Walford Davies, with his appointment as soloist and director of the choir at the Temple Church in the City of London in May 1898, began to be seen as a prominent figure in British musical life.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Walford Davies\tIn May 1898 Davies was appointed organist and director of the choir at the [[Temple_Church|Temple Church]] in the [[City_of_London|City of London]], a post he retained until 1923."
+  },
+  {
+    "id": 28050,
+    "claim": "Swedish Flower Hen is wrongly believed to be a traditional farmyard breed of chicken that was close to extinction in the 1970s before a breeders' association was formed.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Swedish Flower Hen\tThe Blommehöna is a traditional farmyard breed of chicken from southern Sweden; the Swedish name indicates that it comes from the landskap of [[Skåne|Skåne]].\nSwedish Flower Hen\tIt came close to extinction in the 1970s; recovery was based on three flocks found in the villages of Esarp [], Tofta and Vomb [], all in Skåne."
+  },
+  {
+    "id": 23164,
+    "claim": "The British Standard Cycle thread runs at a 90 degrees, and was originally used with boats and trains.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "British Standard Cycle\tUnlike other major British imperial thread standards ([[British_Standard_Whitworth|British Standard Whitworth]] and [[British_Standard_Fine|British Standard Fine]]) the thread runs at a 60 [[Degree_(angle)|degrees]] rather than a 55 degrees [[Thread_angle|angle]]."
+  },
+  {
+    "id": 17355,
+    "claim": "Private Terms' grandsire was Damascus, a Thoroughbred race horse that raced in the \"Race of the Century.\"",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Private Terms\tPrivate Terms (April 6, 1985 – January 22, 2010) was a millionaire American [[Thoroughbred|Thoroughbred]] racehorse and successful stallion.\nPrivate Terms\tHe was the son of Private Account, who in turn was the son of the great [[Damascus|Damascus]].\nDamascus (horse)\tDamascus (April 14, 1964 – August 8, 1995) was a [[Thoroughbred|Thoroughbred]] [[Race_horse|race horse]] [[Father|sired]] by [[Sword_Dancer|Sword Dancer]] (1959's [[Eclipse_Award_for_Horse_of_the_Year|Horse of the Year]]) out of Kerala (by My Babu) foaled at the Jonabell Farm in [[Lexington,_Kentucky|Lexington, Kentucky]].\nDamascus (horse)\tIn a race many consider the \"Race of the Century,\" Damascus won the 1967 Woodward by 10 lengths over both of these horses after his connections, as well as those of Buckpasser, used stablemates to set a blistering pace, thus weakening Dr. Fager."
+  },
+  {
+    "id": 6484,
+    "claim": "Before retiring after the 2007-08 World Cup season, Henning Stensrud's best finish at the FIS Nordic World Ski Championships was eighth in the individual large hill event, and his lone World Cup victory was in a team large hill event in Lahti in 1995.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Henning Stensrud\tHis lone World Cup victory was in a team large hill event in [[Salpausselkä_(ski_jump)|Lahti]] in 2005."
+  },
+  {
+    "id": 8917,
+    "claim": "Radio Hartlepoo,  a full-time community radio station that broadcasts to the various communities in Hartlepool,l is supported by business and community leaders who act as Community Directors but has expressed hesitations for the Community Radio Project.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Radio Hartlepool\tEach of these individuals has publicly expressed enthusiasm for the Community Radio Project."
+  },
+  {
+    "id": 19198,
+    "claim": "Michael Frolík (born 17 February 1988) is a Czech professional ice hockey right winger who is currently an unrestricted free agent and he most recently played for the Buffalo Sabres of the National Hockey League (NHL).",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Michael Frolík\tMichael Frolík (Czech pronunciation: [[Czech|[ˈmɪxaɛl ˈfroliːk]]; born 17 February 1988) is a Czech professional [[Ice_hockey|ice hockey]] [[Winger_(ice_hockey)|right winger]] who is currently an [[Unrestricted_free_agent|unrestricted free agent]].\nMichael Frolík\tHe most recently played for the [[Buffalo_Sabres|Buffalo Sabres]] of the [[National_Hockey_League|National Hockey League]] (NHL)."
+  },
+  {
+    "id": 1013,
+    "claim": "Brazilian battleship Riachuelo, named in honour of the Battle of Riachuelo in 1865, was built by the Samuda Brothers in UK and was launched on June 7, 1883.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Brazilian battleship Riachuelo\tRiachuelo (Portuguese: [[Portuguese|[ʁiaˈʃuelu]]) was a [[Brazil|Brazilian]] [[Ironclad_warship|ironclad]] [[Battleship|battleship]] completed in 1883.\nBrazilian battleship Riachuelo\tShe was named in honour of the [[Battle_of_Riachuelo|Battle of Riachuelo]] in 1865.\nBrazilian battleship Riachuelo\tRiachuelo was constructed by [[Samuda_Brothers|Samuda Brothers]] in London, being [[Keel_laying|laid down]] on 31 August 1881, [[Ship_naming_and_launching|launched]] on 7 June 1883 and commissioned into the Brazilian Navy on 19 November 1883."
+  },
+  {
+    "id": 17112,
+    "claim": "The Bothrostethus annulipes has a humeral tooth and an apex of the scutellum.",
+    "label": "supports",
+    "challenge": "Entity Disambiguation",
+    "evidence": "Bothrostethus annulipes\tBothrostethus annulipes is a species of [[Coreidae|Coreidae]] family, subfamily [[Pseudophloeinae|Pseudophloeinae]].\nBothrostethus annulipes\tThe humeral tooth is very obvious and curved to the outside.\nBothrostethus annulipes\tThe apex of the scutellum is clear, almost white."
+  },
+  {
+    "id": 5119,
+    "claim": "Fish species and self-guided trails are absent in the Palmiet Nature Reserve.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Palmiet Nature Reserve\tThere are a number of self-guided trails that include river crossings."
+  },
+  {
+    "id": 1314,
+    "claim": "GJA5 is a member of the connexin gene family and is a component of gap junctions.",
+    "label": "supports",
+    "challenge": "Entity Disambiguation",
+    "evidence": "GJA5\tGap junction alpha-5 protein (GJA5), also known as connexin 40 (Cx40) — is a [[Protein|protein]] that in humans is encoded by the GJA5 [[Gene|gene]].\nGJA5\tThis gene is a member of the connexin gene family."
+  },
+  {
+    "id": 21114,
+    "claim": "In 1972 Barry Sheene signed with Kawasaki's six-man factory team to ride for them in the 250cc World Championship.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Barry Sheene\tFor the [[1972_Grand_Prix_motorcycle_racing_season|1972]] season, Sheene was signed by [[Yamaha_Motor_Company|Yamaha]] to ride a factory-supported Yamaha YZ635 for the 250cc World Championship under the French Yamaha importer Sonauto's banner.\nBarry Sheene\tThere was no Yamaha factory team at the time, but Sheene was one of six riders receiving support from the factory."
+  },
+  {
+    "id": 3247,
+    "claim": "During 1805, Seymour Burr married Mary Wilbore in which he inherited six acres of land owned by her previous husband.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Seymour Burr\tThen in 1805 he married a widow, Mary (Will) Wilbore, daughter of Nuff Will and Sarah Moho (Mohho), a [[Native_Americans_in_the_United_States|Native American]] woman of the [[Ponkapoag|Ponkapoag]] tribe, and settled in what is now [[Canton,_Massachusetts|Canton, Massachusetts]].\nSeymour Burr\tIn marrying her, he inherited the 6 acres (24,000 m) of land owned by her previous husband, Jacob Wilbor."
+  },
+  {
+    "id": 41562,
+    "claim": "Rack City, a hip-hop track by Tyga from his second studio album, was certified four times Platinum in the United States.",
+    "label": "supports",
+    "challenge": "Entity Disambiguation",
+    "evidence": "Rack City\t\"Rack City\" is a hip hop song by [[Tyga|Tyga]].\nRack City\tFirst released on December 2, 2011, the song served as the third single from his second [[Studio_album|studio album]], Careless World: Rise of the Last King (2012).\nRack City\tOn August 4, 2014, the single was certified [[RIAA_Certification|quadruple platinum]] by the [[Recording_Industry_Association_of_America|Recording Industry Association of America]] (RIAA) for sales of over four million units in the United States."
+  },
+  {
+    "id": 5577,
+    "claim": "Before retiring after the 2007-08 World Cup season, Henning Stensrud's competed at the 1998 Winter Olympics in Nagano, Stensrud finished in the team large hill event, 23rd in the individual normal hill, and 38th in the individual large hill events (which was mostly won by Japan with two gold medals in both large hill and large hill team).",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Henning Stensrud\tStensrud retired after the [[2007–08_FIS_Ski_Jumping_World_Cup|2007–08 World Cup season]] and currently resides in [[Trondheim|Trondheim]].\nHenning Stensrud\tAt the [[1998_Winter_Olympics|1998 Winter Olympics]] in [[Nagano,_Nagano|Nagano]], Stensrud finished in the team large hill event, 23rd in the individual normal hill, and 38th in the individual large hill events.\n1998 Winter Olympics\tHost [[Japan_at_the_1998_Winter_Olympics|Japan]] won the most medals, including two gold in the large hill and large hill team."
+  },
+  {
+    "id": 6739,
+    "claim": "Suswa–Isinya–Rabai High Voltage Power Line began construction in 2011 with a budget of $150 million and the lead contractor was KPTL from India.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Suswa–Isinya–Rabai High Voltage Power Line\tConstruction was budgeted at KSh14 billion (US$140 million), funded with loans from (i) the [[French_Development_Agency|French Development Agency]] (ii) the [[European_Investment_Bank|European Investment Bank]] and (iii) the [[African_Development_Bank|African Development Bank]]."
+  },
+  {
+    "id": 7341,
+    "claim": "Antarctica's Mount Donaldson, discovered by the Queen of England, is part of the Flat Top.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Mount Donaldson\tDiscovered and named by the [[Terra_Nova_Expedition|British Antarctic Expedition]] (1907-09)."
+  },
+  {
+    "id": 3293,
+    "claim": "Archduchess Gregoria Maximiliana of Austria 22 May 1581 – 20 September 1597) was named after her godparents, Pope Gregory XIII and Maximiliana Maria of Bavaria.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Archduchess Gregoria Maximiliana of Austria\tArchduchess Gregoria Maximiliana of Austria (22 May 1581 – 20 September 1597) was a member of the [[House_of_Habsburg|House of Habsburg]].\nArchduchess Gregoria Maximiliana of Austria\tBorn in [[Graz|Graz]], her godparents were [[Pope_Gregory_XIII|Pope Gregory XIII]] and her maternal aunt, Maximiliana Maria of Bavaria.\nArchduchess Gregoria Maximiliana of Austria\tNamed after both, Gregoria Maximiliana was described as extremely pious and had the closest relationship to her mother among her siblings."
+  },
+  {
+    "id": 6588,
+    "claim": "Dimethylglycine oxidase doesn't suppress chemical reactions.",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Dimethylglycine oxidase\tIn [[Enzymology|enzymology]], a dimethylglycine oxidase ([[Enzyme_Commission_number|EC]] ) is an [[Enzyme|enzyme]] that [[Catalysis|catalyzes]] the [[Chemical_reaction|chemical reaction]]\nCatalysis\tCatalysis ([[English|/kəˈtæləsɪs/]]) is the process of increasing the [[Reaction_rate|rate]] of a [[Chemical_reaction|chemical reaction]] by adding a substance known as a catalyst ([[English|/ˈkætəlɪst/]])."
+  },
+  {
+    "id": 8899,
+    "claim": "An Earth trojan is an asteroid that has a vastly different orbit than Earth's with more than one said trojan having been discovered.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Earth trojan\tAn Earth trojan is an [[Asteroid|asteroid]] that orbits the [[Sun|Sun]] in the vicinity of the Earth–Sun [[Lagrangian_point|Lagrangian points]] [[Lagrangian_point#L4_and_L5|L4]] (leading 60°) or [[Lagrangian_point#L4_and_L5|L5]] (trailing 60°), thus having an orbit similar to Earth's.\nEarth trojan\tOnly one Earth trojan has so far been discovered."
+  },
+  {
+    "id": 24597,
+    "claim": "Compsocidae has two current species in two genera (Compsocus elegans found in Mexico and Central America, and Electrentomopsis variegata found in Mexico) and the antennae of each species have thirteen or 14 segments.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Compsocidae\tThe family comprises two extant species in two genera, both found in [[Mesoamerica|Mesoamerica]].\nCompsocidae\tCompsocus elegans is found in [[Mexico|Mexico]] and [[Central_America|Central America]], while Electrentomopsis variegata is found in Mexico.\nCompsocidae\tThe antennae of each species have 13 or 14 segments."
+  },
+  {
+    "id": 6268,
+    "claim": "Before being associated with Jean-Paul Marat and Étienne Dumont, Étienne Clavière (was a Genevan-born French financier and politician of the French Revolution), a native of Geneva, became one of the democratic leaders of the Geneva Revolution of 1792, but went into exile after its failure.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Étienne Clavière\tA native of [[Geneva|Geneva]], Clavière became one of the democratic leaders of the [[Geneva_Revolution_of_1782|Geneva Revolution of 1782]]."
+  },
+  {
+    "id": 26252,
+    "claim": "Arthur Rigby (English professional footballer) was an electrician by trade who initially started his football career as a goalkeeper and he played 13 games, scoring one goal, in his first season.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Arthur Rigby\tArthur Rigby (born 7 June 1900 in [[Chorlton-cum-Hardy|Chorlton-cum-Hardy]], Manchester, England; died March 1960 in [[Crewe|Crewe]], England) was an English professional [[Association_football|footballer]] who played as [[Inside_left|inside left]] or [[Outside_left|outside left]].\nArthur Rigby\tArthur Rigby was an electrician by trade who initially started his football career as a [[Goalkeeper_(association_football)|goalkeeper]] until after a trial with [[Stockport_County_F.C.|Stockport County]], signed as a [[Midfielder#Winger|winger]] for [[Crewe_Alexandra_F.C.|Crewe Alexandra]] after the [[First_World_War|First World War]].\nArthur Rigby\tHe played 13 games, scoring one goal, in his first season at City, before the club was relegated in his first full season."
+  },
+  {
+    "id": 2499,
+    "claim": "Vasco Maria Nunes Barata de Sousa Uva was a captain in Grupo Desportivo Direito before he became a lawyer.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Vasco Uva\tIn Portugal he played for [[Grupo_Desportivo_Direito|Grupo Desportivo Direito]].\nVasco Uva\tHe soon moved back to Direito, where he was the captain, until finishing his career at 2017/18.\nVasco Uva\tVasco Maria Nunes Barata de Sousa Uva (born 15 December 1982 in [[Lisbon|Lisbon]]) is a former [[Portugal|Portuguese]] [[Rugby_union|rugby union]] [[Player_(game)|player]].\nVasco Uva\tHe took his Law degree at the [[Catholic_University_of_Portugal|Catholic University of Portugal]], in Lisbon, and he works as a lawyer."
+  },
+  {
+    "id": 13681,
+    "claim": "Middlesex Senior Charity Cup (knock-out system football competition) run mainly for non-league clubs in the region and Hayes have won the competition the most times, with 15 wins (their first victory came in 1932 and their most recent in 1991).",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Middlesex Senior Charity Cup\tThe Middlesex Senior Charity Cup is a knock-out system [[Association_football|football]] competition that has been running since 1901.\nMiddlesex Senior Charity Cup\tThe competition is run mainly for non-league clubs in the region, although league sides have been known to enter the competition, such as [[Barnet_F.C.|Barnet]], [[Brentford_F.C.|Brentford]] [[Chelsea_F.C.|Chelsea]] [[Tottenham_Hotspur_F.C.|Tottenham Hotspur]] and [[Queens_Park_Rangers_F.C.|Q.P.R.]]\nMiddlesex Senior Charity Cup\t[[Hayes_F.C.|Hayes]] have won the competition the most times, with 15 wins (their first victory came in 1932 and their most recent in 1991)."
+  },
+  {
+    "id": 2992,
+    "claim": "Riker Lynch directed \"Loud\" and \"Can't Get Enough of You\", both are R5's music videos released in 2009 and 2010 respectively.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "R5 (band)\tThe R5's debut single, \"[[Loud_(R5_song)|Loud]]\", was released on February 13 and also serves as the first single from the debut album."
+  },
+  {
+    "id": 6494,
+    "claim": "Gwernymynydd is a village and community outside the market town of Mold in Wales, United Kingdom (a sovereign country located off the north­western coast of the European mainland  that includes the island of Great Britain, the north­eastern part of the island of Ireland, and many smaller islands) with a population of less than a thousand by 2011.",
+    "label": "refutes",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Gwernymynydd\tThe population at the [[United_Kingdom_Census_2011|2011 census]] was 1,141."
+  },
+  {
+    "id": 282,
+    "claim": "There will be some electrostatic repulsion between electrons and the amount of repulsion varies from nucleus to nucleus, where the total repulsion can be expressed in four parameters which are known as the Racah parameters.",
+    "label": "refutes",
+    "challenge": "Numerical Reasoning",
+    "evidence": "Racah parameter\tThe total repulsion can be expressed in terms of three parameters A, B and C which are known as the Racah parameters after [[Giulio_Racah|Giulio Racah]], who first described them."
+  },
+  {
+    "id": 3548,
+    "claim": "Louis Sachar, an American young-adult mystery-comedy author, did not finish his studies, and worked on Sideways Stories From Wayside School where the students were named after children from Hillside.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Louis Sachar\tSachar graduated from UC Berkeley in 1976 with a degree in [[Economics|Economics]], and began working on [[Sideways_Stories_From_Wayside_School_(book)|Sideways Stories From Wayside School]], a children's book set at an elementary school with [[Supernatural|supernatural]] elements."
+  },
+  {
+    "id": 22927,
+    "claim": "Francis Fisher's initial intention to only stand in a Christchurch electorate at the 1905 general election was changed when his father died in mid March, and a request was put to him to stand in the City of Wellington electorate to fill the vacancy.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Francis Fisher\tHis initial intention in early 1905 was to stand in a Christchurch electorate at the 1905 general election.\nFrancis Fisher\tThis changed, however, when his father died in mid March, and a request was put to him to stand in the [[Wellington_(New_Zealand_electorate)|City of Wellington electorate]] to fill the vacancy."
+  },
+  {
+    "id": 15248,
+    "claim": "The Hunan County in the Province of Xupu (literally means \"south of the lake\" and birthplace of communist revolutionary Mao Zedong, who became the founding father of the People's Republic of China) with a land area of 3,437.93 km, has a total population of 741,01 (as of 2010).",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Hunan\tHunan (湖南) is a landlocked [[Provinces_of_China|province]] of the People's Republic of [[China|China]], part of the South Central China region."
+  },
+  {
+    "id": 29514,
+    "claim": "Donnya Piggott founded an association called B-GLAD in 2012 which barely focused on people's common humanity and has believed that approaching homosexuality, a romantic attraction between members of the same sex or gender, from a moral standpoint results in stalemate.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Donnya Piggott\tIn 2012 Piggott founded an association Barbados Gays, Lesbians and All-Sexuals Against Discrimination B-GLAD as an organisation to create an education mechanism and open public dialogue in a supportive manner for the LGBT community of Barbados.\nDonnya Piggott\tAccording to Piggott, her organisation focuses on people's common humanity."
+  },
+  {
+    "id": 17122,
+    "claim": "Nine teams competed in the 2015–16 Hong Kong Premier League, Hong Kong's professional football league organized by Hong Kong Football Association.",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "2015–16 Hong Kong Premier League\t2015–16 [[Hong_Kong_Premier_League|Hong Kong Premier League]] (also known as BOCG Life Hong Kong Premier League for sponsorship reasons) is the second season of [[Hong_Kong_Premier_League|Hong Kong Premier League]], the top division of [[Football_in_Hong_Kong|Hong Kong football]].\n2015–16 Hong Kong Premier League\tA total of 9 teams contested the league, including eight sides from the [[2014–15_Hong_Kong_Premier_League|2014–15 Hong Kong Premier League]] and one promoted from the [[2014–15_Hong_Kong_First_Division_League|2014–15 Hong Kong First Division]].\nFootball in Hong Kong\tThe [[Hong_Kong_Football_Association|Hong Kong Football Association]] (HKFA) is the governing body for football in [[Hong_Kong|Hong Kong]].\nFootball in Hong Kong\tAll the football leagues are organised by the HKFA."
+  },
+  {
+    "id": 23040,
+    "claim": "Chris Cornell (an American rock musician) discography shows that he had five studio albums with Scream placing the highest in US Charts.",
+    "label": "refutes",
+    "challenge": "Numerical Reasoning",
+    "evidence": "Chris Cornell\tHe released four solo studio albums, [[Euphoria_Morning|Euphoria Morning]] (1999), [[Carry_On_(Chris_Cornell_album)|Carry On]] (2007), [[Scream_(Chris_Cornell_album)|Scream]] (2009), and [[Higher_Truth|Higher Truth]] (2015); the live album [[Songbook_(Chris_Cornell_album)|Songbook]] (2011); and two compilations, The Roads We Choose (2007) and [[Chris_Cornell_(album)|Chris Cornell]] (2018), the latter released posthumously."
+  },
+  {
+    "id": 7498,
+    "claim": "Antturi studied at Vanderbilt University in Nashville, USA, then later lived with his family in Dublin for two years, serving as a priest for the Finnish Seamen’s Mission.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Arto Antturi\tHe has studied at Vanderbilt University in [[Nashville,_Tennessee|Nashville]], USA.\nArto Antturi\tLater, Antturi lived with his family in [[Dublin|Dublin]] for two years, serving as a priest for the [[Finnish_Seamen's_Mission|Finnish Seamen's Mission]]."
+  },
+  {
+    "id": 4488,
+    "claim": "The Victoria Tower was purpose-built as a \"fireproof repository for books and documents\" and Augustus Pugin produced most of the architectural designs and elevations for the project and also the interior design.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Victoria Tower\tThe Victoria Tower was purpose-built as a \"fireproof repository for books and documents\", as required by the competition to rebuild the Palace of Westminster after the fire of 16 October 1834, which had destroyed the building and almost all of the records of the [[House_of_Commons_of_the_United_Kingdom|House of Commons]].\nVictoria Tower\t[[Augustus_Pugin|Augustus Pugin]] produced most of the architectural designs and elevations for the project and also the interior design."
+  },
+  {
+    "id": 5708,
+    "claim": "Primary alcohol and O2 are the 2 substrates of alcohol oxidase and it is also called ethanol oxidase.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Alcohol oxidase\tThus, the two [[Substrate_(biochemistry)|substrates]] of this enzyme are [[Primary_alcohol|primary alcohol]] and [[Oxygen|O2]], whereas its two [[Product_(chemistry)|products]] are [[Aldehyde|aldehyde]] and [[Hydrogen_peroxide|H2O2]].\nAlcohol oxidase\tThis enzyme is also called ethanol oxidase."
+  },
+  {
+    "id": 1518,
+    "claim": "Prior to being an assistant professor at the McMath-Hulbert Solar Observatory from 1946 to 1948, Arthur Adel (November 22, 1908 – September 13, 1994), an American astronomer and astrophysicist,  was a faculty member in physics at the University of Michigan from 1942 to 1946.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Arthur Adel\tArthur Adel (November 22, 1908 – September 13, 1994) was an American [[Astronomer|astronomer]] and [[Astrophysicist|astrophysicist]].\nArthur Adel\tFrom 1946 to 1948 he was an assistant professor at the [[McMath–Hulbert_Observatory|McMath-Hulbert Solar Observatory]], then operated by the university, while also studying the effective radiation temperature of the [[Ozone_layer|ozone layer]] for the US Air Force at a base in New Mexico.\nArthur Adel\tDuring World War II, he worked for the US Navy in Washington, DC, [[De-gaussing|de-gaussing]] submarines, and from 1942 to 1946 was a faculty member in physics at the University of Michigan."
+  },
+  {
+    "id": 20737,
+    "claim": "Peter Erler (editorial staff at Forschungsverbund) focused his research on the history of South African emigrants in the USA.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Peter Erler\tThe focus of his professional research is on the history of German emigrants in the [[Soviet_Union|Soviet Union]], [[NKVD_special_camps_in_Germany_1945–49|Soviet internment camps]] in Germany, together with political developments more generally in the Soviet occupation zone (1945–1949) and the [[German_Democratic_Republic|German Democratic Republic]] (1949–1990).\nPeter Erler\tHe is also a member of the editorial staff of the newspaper of the Forschungsverbund."
+  },
+  {
+    "id": 20781,
+    "claim": "Senkyu, which is also known as Battle Balls, had two versions that were released in 2001 and both versions were single-player games.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Senkyu\tSenkyu (戦球), known as Battle Balls in English, is an arcade puzzle game created by Seibu Kaihatsu and released in 1995.\nSenkyu\tIn 2001, Seibu Kaihatsu released two new versions of Senkyu named Gravure Collection and Pakkun Ball TV respectively.\nSenkyu\tBoth are strictly single player games and feature live-action video clips."
+  },
+  {
+    "id": 37066,
+    "claim": "The sambar deer has eight subspecies with the Sri Lankan sambar deer being the largest of them.",
+    "label": "refutes",
+    "challenge": "Numerical Reasoning",
+    "evidence": "Sambar deer\tCurrently, seven subspecies of sambar are recognised, although many others have been proposed."
+  },
+  {
+    "id": 6948,
+    "claim": "Empires Apart, a real-time strategy that was developed by  DESTINY,  has five ancient powerful artifacts scattered around the map at the start of the game.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Empires Apart\tEmpires Apart is a [[Real-time_strategy|real-time strategy]] game developed by Italian studio DESTINYbit and published by [[Slitherine_Software|Slitherine]].\nEmpires Apart\tThere are 5 ancient powerful artifacts scattered around the map at the start."
+  },
+  {
+    "id": 1326,
+    "claim": "The Fort Worth Museum of Science and History was closed in 2007 for renovations and was moved into a new 166,000 square-foot building in 2009.",
+    "label": "supports",
+    "challenge": "Numerical Reasoning",
+    "evidence": "Fort Worth Museum of Science and History\tIn the fall of 2007, the museum was closed for renovations.\nFort Worth Museum of Science and History\tThe entire museum was moved into a new building at the same site in 2009.\nFort Worth Museum of Science and History\tThe new building was designed by architects with and consists of 166,000 square feet."
+  },
+  {
+    "id": 2470,
+    "claim": "The Planning Policy Guidance Notes were updated to steer the policy away from creating large houses to creating higher density developments to allow for more affordable housing.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Planning Policy Guidance Notes\tPPG3 was introduced to steer policy away from the development of large, spacious houses on [[Greenfield_land|greenfield]] sites, towards higher density development using [[Brownfield|brownfield]] or urban sites wherever possible.\nPlanning Policy Guidance Notes\tIt also sought to compel developers to provide a greater element of [[Affordable_housing|affordable housing]]."
+  },
+  {
+    "id": 4813,
+    "claim": "The 1859 Shamakhi earthquake in the present-day Azerbaijan Republic killed 100 people.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "1859 Shamakhi earthquake\tThe 1859 Shamakhi earthquake struck [[Shamakhi_Rayon|Shamakhi]] in the [[Baku_Governorate|Baku Governorate]] (present-day [[Azerbaijan_Republic|Azerbaijan Republic]]) of the [[Russian_Empire|Russian Empire]], on 11 June.\n1859 Shamakhi earthquake\tThe earthquake had an estimated magnitude of 5.9 and caused moderate damage and killed approximately 100 people."
+  },
+  {
+    "id": 196,
+    "claim": "Kajal Kiran played as Kajal Kisharina in the 1977 film \"Hum Kisise Kum Naheen\", then as Kaajal in \"Maang Bharo Sajana\" in 1980.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Kajal Kiran\tShe'd soon began to get more movie offers, and in 1980 starred as the lead role in [[Maang_Bharo_Sajana|Maang Bharo Sajana]] as Geeta Sinha, the heroine to [[Jeetendra|Jeetendra]], who played a double role, and starred alongside [[Rekha|Rekha]] and Moushumi Chatterjee."
+  },
+  {
+    "id": 48965,
+    "claim": "Penguin Books-published book series Opposing Viewpoints with print and online versions tries to encourage critical thinking and issue awareness.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Opposing Viewpoints series\tThey are published by Greenhaven Press and are heavily used in both [[School_library|school]] and [[Public_library|public library]] collections."
+  },
+  {
+    "id": 24038,
+    "claim": "The 1955 World Modern Pentathlon Championships were never held in Macolin, Switzerland, which houses the Swiss Federal Office of Sport, the government's centre for expertise in sport.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "1955 World Modern Pentathlon Championships\tThe 1955 World Modern Pentathlon Championships were held in [[Macolin|Macolin]], [[Switzerland|Switzerland]]."
+  },
+  {
+    "id": 1835,
+    "claim": "Marko Drobnjak moved on loan to Polet Ljubić—a football club in Serbia that currently plays in the Serbian League West—at the beginning of 2016 until the end of 2015-16 season in which, afterwards, he was nominated for the most prospective goalkeeper in his home town.",
+    "label": "supports",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Marko Drobnjak\tAt the beginning of 2016, Drobnjak moved on loan to [[FK_Polet_Ljubić|Polet Ljubić]] until the end of [[2015–16_Serbian_SuperLiga|2015–16]] season.\nMarko Drobnjak\tAfter the end of same season, he was nominated for the most prospective goalkeeper in his home town.\nFK Polet Ljubić\tFK Polet Ljubić ([[Serbian_Cyrillic|Serbian Cyrillic]]: ФК Пoлeт Љубић) is a [[Association_football|football]] club based in [[Ljubić_(Čačak)|Ljubić]], [[Čačak|Čačak]], Serbia.\nFK Polet Ljubić\tThey currently play in the [[Serbian_League_West|Serbian League West]] (Srpska liga Zapad), a third tier in Serbia's football league, and spent the 2001–02 season in the [[Serbian_First_League|Serbian First League]]."
+  },
+  {
+    "id": 1286,
+    "claim": "L-arabinose is more common than D-arabinose with most research has been done on L-arabinose operon.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Arabinose\tHowever, L-arabinose is in fact more common than D-arabinose in nature and is found in nature as a component of biopolymers such as [[Hemicellulose|hemicellulose]] and [[Pectin|pectin]].\nArabinose\tThe [[L-arabinose_operon|L-arabinose operon]], also known as the araBAD operon, has been the subject of much biomolecular research.\nL-arabinose operon\tThe L-arabinose operon has been a focus for research in [[Molecular_biology|molecular biology]] since 1970, and has been investigated extensively at its [[Genetics|genetic]], [[Biochemical|biochemical]], [[Physiological|physiological]] and biotechnical levels."
+  },
+  {
+    "id": 26662,
+    "claim": "The 198th Airlift Squadron was a U.S. based military force under the U.S. Coast Guard that operated between 1944 and 2019 which has its headquarters in Carolina, Puerto Rico.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "198th Airlift Squadron\tThe 198th Airlift Squadron (198 AS) was the last flying squadron of the [[Puerto_Rico_Air_National_Guard|Puerto Rico Air National Guard]] (PRANG) [[156th_Airlift_Wing|156th Airlift Wing]] located at [[Muñiz_Air_National_Guard_Base|Muñiz Air National Guard Base]], in [[Carolina,_Puerto_Rico|Carolina, Puerto Rico]]."
+  },
+  {
+    "id": 909,
+    "claim": "Convoy JW 54A consisted of 19 merchant ships, close escorts' were provided by destroyers, and it was also accompanied by a local escort group from Britain.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Convoy JW 54A\tJW 54A consisted of 19 merchant ships which departed from [[Loch_Ewe|Loch Ewe]] on 15 November 1943.\nConvoy JW 54A\tClose escort was provided by the destroyers Inconstant and Whitehall, and two other vessels.\nConvoy JW 54A\tThe convoy was also accompanied initially by a local escort group from Britain, and was also joined later by a local escort from [[Murmansk|Murmansk]]."
+  },
+  {
+    "id": 2016,
+    "claim": "In the Act 1 of La diavolessa, Giannino and Dorina are in love, but she wants no longer marry Giannino because he is poor, but Falco is sure that the marriage between Giannino and Dorina will take place.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "La diavolessa\tGiannino and Dorina are in love, but she wants no longer marry Giannino because he is poor.\nLa diavolessa\tFalco is sure that the marriage between Giannino and Dorina will take place (Cavatina a 3: Se non fossi maritato / \"If I were not married\")."
+  },
+  {
+    "id": 5568,
+    "claim": "KTEK in the 1970s once featured Vietnamese language programming and Salem Telecom then acquired the station for its Christian-related programming.",
+    "label": "refutes",
+    "challenge": "Numerical Reasoning",
+    "evidence": "KTEK\tKTEK in the 1990s once featured [[Vietnamese_language|Vietnamese language]] programming and was declared the Voice of Vietnam in Houston."
+  },
+  {
+    "id": 28751,
+    "claim": "Olive served the Fifth District in the Illinois Senate from 2007 until 2011; he was elected in 2006 with 11,224 votes (50%), defeating Republican opponent James Kurtenbach.",
+    "label": "refutes",
+    "challenge": "Search terms not in claim",
+    "evidence": "Rich Olive\tA [[Iowa_Democratic_Party|Democrat]], he served the [[Iowa_Senate,_District_5|Fifth District]] in the [[Iowa_Senate|Iowa Senate]] from 2007 until 2011."
+  },
+  {
+    "id": 30049,
+    "claim": "YWHAG belongs to the 14-3-3 protein (regulatory molecules that are expressed in all eukaryotic cells) family found in only mammals (in heart muscles).",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "YWHAG\tThis highly conserved protein family is found in both plants and mammals, and this protein is 100% identical to the rat ortholog."
+  },
+  {
+    "id": 1212,
+    "claim": "GT cars are divided into 2 or 3 subgroups (GT3, GT4, and GT Open), while TC are divided by calculated engine capacity (TC1 - TC4).",
+    "label": "refutes",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Grand tourer\tA grand tourer (GT) is a type of [[Sports_car|sports car]] that is designed for high speed and long-distance driving, due to a combination of performance and luxury attributes.\nGrand tourer\tThe GT abbreviation—and variations thereof—are often used as model names.\nGrand tourer\tSeveral past and present motor racing series have used \"GT\" in their name .\nGroup GT3\tGroup GT3, known technically as Cup Grand Touring Cars and commonly referred to as simply GT3, is a set of regulations maintained by the [[Fédération_Internationale_de_l'Automobile|Fédération Internationale de l'Automobile]] (FIA) for [[Grand_tourer|grand tourer]] racing cars designed for use in various [[Auto_racing|auto racing series]] throughout the world."
+  },
+  {
+    "id": 4092,
+    "claim": "In 1869, James Howe Carse had an exhibition of his new work at the Melbourne Public Library, and then later that year, an engraving of his drawing was included on the front cover of the illustrated Melbourne Post.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "James Howe Carse\tBy 1869 Carse had visited both Australia and New Zealand, and an exhibition of his new work was shown at the [[Melbourne_Public_Library|Melbourne Public Library]].\nJames Howe Carse\tHe enjoyed commercial success, as an engraving of his drawing was included on the front cover of the Illustrated Melbourne Post later that year."
+  },
+  {
+    "id": 35475,
+    "claim": "Audencia Business School, consistently ranked in the top five business schools in France, has an enrollment of 4500 students from 90 countries, and it's full-time MBA program was ranked highly by CNN and the Economist.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Audencia Business School\tAudencia is consistently ranked in the top 10 business schools in France."
+  },
+  {
+    "id": 4873,
+    "claim": "Softengine failed to show up in the Uuden Musiikin Kilpailu finals on February 1, 2014.",
+    "label": "refutes",
+    "challenge": "Search terms not in claim",
+    "evidence": "Finland in the Eurovision Song Contest 2014\tThe final took place on 1 February 2014 where the eight finalist songs were performed and \"[[Something_Better_(Softengine_song)|Something Better]]\" performed by [[Softengine|Softengine]] was selected as the winner based on a 50/50 combination of jury voting and televoting."
+  },
+  {
+    "id": 4412,
+    "claim": "The 5th Royal Inniskilling Dragoon Guards was a part of the British Army.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "5th Royal Inniskilling Dragoon Guards\tThe 5th Royal Inniskilling Dragoon Guards was a cavalry regiment of the [[British_Army|British Army]] formed in 1922 by the amalgamation of the [[5th_Dragoon_Guards|5th Dragoon Guards (Princess Charlotte of Wales's)]] and the [[6th_(Inniskilling)_Dragoons|6th (Inniskilling) Dragoons]]."
+  },
+  {
+    "id": 348,
+    "claim": "Naruki Doi was the first champion of the Open the Brave Gate and currently remains with Blood Generation.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Naruki Doi\tIn January 2005, Doi turned heel and joined [[Nobuhiko_Oshima|CIMA]]'s new faction Blood Generation.\nNaruki Doi\tOn April 12, 2006, when [[Yoshito_Sugamoto|Gamma]] was kicked out of Blood Generation due to constant clashes with CIMA, Doi left with Gamma, along with [[Masato_Yoshino|Masato Yoshino]] and Naoki Tanizaki.\nNaruki Doi\tAfter Doi and Gamma won the rights to the Blood Generation name in a tag match against CIMA and [[Don_Fujii|Don Fujii]] eleven days later, Doi's faction renounced it, renaming themselves the [[Muscle_Outlaw'z|Muscle Outlaw'z]].\nNaruki Doi\tOn May 4, Naruki Doi reunited with Masato Yoshino and formed a new unit called MaxiMuM with Big R Shimizu, Ben-K, and Kotoka."
+  },
+  {
+    "id": 15842,
+    "claim": "Brookings University Residential Historic District is a four by four-and-a-half mile rectangle covering 60 acres in historic district of Brookings, South Dakota, which was listed on the National Register of Historic Places in 1999.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Brookings University Residential Historic District\tIt is roughly a four-block by four-and-a-half-block rectangle situated two blocks east of Brookings' Main Street."
+  },
+  {
+    "id": 5278,
+    "claim": "Phoenix InfoNews Channel is a Singaporean pay television news channel owned by Phoenix Television (TV network that offers Mandarin and Cantonse language channels) and it is the second channel to report news across the Greater Singapore region.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Phoenix InfoNews Channel\tPhoenix InfoNews Channel is a [[Hong_Kong|Hongkonger]] [[Pay_television|pay television]] news channel owned by [[Phoenix_Television|Phoenix Television]]."
+  },
+  {
+    "id": 10973,
+    "claim": "On April 24, 2015, OneJet announced that it would move its base of operations from Indianapolis to Pittsburgh and indicated that it would stop to add flights from Pittsburgh.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "OneJet\tOn April 6, 2016, OneJet announced that it would move its base of operations from Indianapolis to Pittsburgh and that [[Corporate_Flight_Management|Corporate Flight Management]] (CFM) would take over flight operations from Pentastar."
+  },
+  {
+    "id": 5334,
+    "claim": "Mickey Mansell played in his second World Cup of Darts with Brendan Dolan, he reached the quarter-finals of a PDC event but never beat anyone in the UK Open.",
+    "label": "refutes",
+    "challenge": "Entity Disambiguation",
+    "evidence": "Mickey Mansell\tMichael \"Mickey\" Mansell (born 31 August 1973) is a [[Irish_people|Northern Irish]] [[Darts|darts]] player from [[County_Tyrone|County Tyrone]] who currently plays in [[Professional_Darts_Corporation|Professional Darts Corporation]] events.\nMickey Mansell\tA week later, he qualified for the [[2011_PDC_World_Darts_Championship|2011 PDC World Darts Championship]] after defeating Stephen Byrne to win the Tom Kirby Memorial Irish Matchplay.\nMickey Mansell\tHe represented Northern Ireland with [[Brendan_Dolan|Brendan Dolan]] in the [[2012_PDC_World_Cup_of_Darts|2012 PDC World Cup of Darts]] and together they reached the quarter-finals, where they were defeated by the Netherlands 0–4, having beaten Denmark in the second round.\nMickey Mansell\tHe finished inside the top 96 after the 8 UK Open qualifiers were held."
+  },
+  {
+    "id": 24697,
+    "claim": "William Becton's second album was released solely by CGI Records in 1997.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "William Becton\tWilliam Earl Becton, Jr. (born December 31, 1968) is an American gospel musician.\nWilliam Becton\tHis second album, Heart of a Love Song, was released by CGI Records in association with [[A&M_Records|A&M Records]] in 1997."
+  },
+  {
+    "id": 15275,
+    "claim": "Ebbe Carlsson affair was when Lidbom consulted Ebbe Carlsson who started up the investigation and concluded that Nils Erik Åhmansson had not been assassinated by PKK",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Ebbe Carlsson affair\tIn late 1987, prime minister [[Ingvar_Carlsson|Ingvar Carlsson]] summoned Carl Lidbom, the Swedish ambassador to [[France|France]], to [[Stockholm|Stockholm]].\nEbbe Carlsson affair\tHe wanted Lidbom to lead an investigation into the procedures of [[SÄPO|SÄPO]], the Swedish security police.\nEbbe Carlsson affair\tThis was prompted by the escape of convicted spy [[Stig_Bergling|Stig Bergling]] as well as the failure to find the assassin of former prime minister Olof Palme.\nEbbe Carlsson affair\tLidbom consulted his old acquaintance Ebbe Carlsson.\nEbbe Carlsson affair\tEbbe Carlsson had both knowledge and connections relating to SÄPO, and started up his own investigation, backed by the [[National_Police_Commissioner_(Sweden)|National Police Commissioner]] [[Nils_Erik_Åhmansson|Nils Erik Åhmansson]] who provided Carlsson with a bodyguard and additional collaborators within SÄPO."
+  },
+  {
+    "id": 4114,
+    "claim": "George Kadish, a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust, the period of the Nazi German genocide against Jews, and who constructed cameras by which he could photograph through the buttonhole of his coat or over a window sill, was able to photograph sensitive scenes that would attract the ire of Nazis or collaborators, such as scenes of people gathered for forced labor, burning of the ghetto, and deportations.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "George Kadish\tGeorge Kadish, born Zvi (Hirsh) Kadushin (died September 1997), was a [[Lithuanian_Jews|Lithuanian Jewish]] photographer who documented life in the Kovno Ghetto during the [[Holocaust|Holocaust]], the period of the [[Nazi_German|Nazi German]] genocide against Jews.\nGeorge Kadish\tKadish constructed cameras by which he could photograph through the buttonhole of his coat or over a window sill.\nGeorge Kadish\tHe was able to photograph sensitive scenes that would attract the ire of Nazis or collaborators, such as scenes of people gathered for forced labor, burning of the ghetto, and deportations."
+  },
+  {
+    "id": 235,
+    "claim": "GJA5 is a member of the connexin gene family and is a component of gap junctions(arrays of intercellular channels that provide a route for the diffusion of low molecular weight materials from cell to cell).",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "GJA5\tThis gene is a member of the connexin gene family.\nGJA5\tThe encoded protein is a component of gap junctions, which are composed of arrays of intercellular channels that provide a route for the diffusion of low molecular weight materials from cell to cell."
+  },
+  {
+    "id": 28011,
+    "claim": "Oreta suffusa was described by Francis Walker in 1955, found in Asia and adults are lilac-fawn colour.",
+    "label": "refutes",
+    "challenge": "Numerical Reasoning",
+    "evidence": "Oreta suffusa\tIt was described by [[Francis_Walker_(entomologist)|Francis Walker]] in 1855."
+  },
+  {
+    "id": 37950,
+    "claim": "Piotr Mowlik  is a retired Polish football midfielder who signed as a professional with ROW Rybnik where he played until 1970 then joined  Legia Warsaw in 1971.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Piotr Mowlik\tPiotr Mowlik (born 21 April 1951 in [[Rybnik|Rybnik]]) is a retired [[Polish_people|Polish]] football [[Goalkeeper_(football)|goalkeeper]]."
+  },
+  {
+    "id": 22938,
+    "claim": "In 2013 East Pennsboro High School achieved a performance of 77.8 out of 100 in grade level reading, math, and science.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "East Pennsboro High School\tEast Pennsboro Area High School achieved 77.8 out of 100.\nEast Pennsboro High School\tReflects on grade level reading, mathematics and science achievement."
+  },
+  {
+    "id": 16168,
+    "claim": "The National Building is a historic warehouse building in downtown Seattle, Washington, located on the east side of Western Avenue between Spring and Madison Streets in what was historically Seattle's commission district.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "National Building\tThe National Building is a historic warehouse building in downtown [[Seattle,_Washington|Seattle, Washington]], located on the east side of Western Avenue between Spring and Madison Streets in what was historically Seattle's commission district."
+  },
+  {
+    "id": 36,
+    "claim": "The first ambassador of Peru to the USA was a simple civilian named César Canevaro.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "César Canevaro\tCésar Canevaro Valega (January 19, 1846 – October 31, 1922) was a [[Peru|Peruvian]] General and politician."
+  },
+  {
+    "id": 1817,
+    "claim": "During Washington's first district primary for the U.S. House of Representatives in 2010, Democratic candidate Jay Inslee earned 55.85 percent of the vote.",
+    "label": "refutes",
+    "challenge": "Multi-hop Reasoning",
+    "evidence": "Jay Inslee\tJay Robert Inslee ([[English|/ˈɪnzliː/]]; born February 9, 1951) is an American politician who has served as the 23rd [[List_of_governors_of_Washington|governor of Washington]] since 2013.\nJay Inslee\tIn the general election, Inslee defeated Carmichael 52%-48%.\nJay Inslee\tIn 2010 he won by a 15-point margin, with 57.67% of the votes cast in his favor."
+  },
+  {
+    "id": 2334,
+    "claim": "Silvanus Trevail, who purchased a third class ticket, committed suicide in a toilet at the Brownqueen Tunnel by shooting himself as the train entered the tunnel.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Silvanus Trevail\tOn 7 November 1903 he shot himself in the lavatory of a train as it entered [[Brownqueen_Tunnel|Brownqueen Tunnel]] a short distance from [[Bodmin_Parkway_railway_station|Bodmin Road railway station]].\nBrownqueen Tunnel\tTrevail caught the 11.40 up train from [[Truro|Truro]], having purchased a third class ticket, a peculiar event as he typically travelled first class.\nBrownqueen Tunnel\tAs the train entered the Brownqueen tunnel, Trevail shot himself; when the train stopped at Bodmin Road, a porter was called, and Trevail's body was found lying across the toilet."
+  },
+  {
+    "id": 949,
+    "claim": "Elmer Mitchell (who attended University of Michigan) played on the varsity baseball team for three years and was hired as an assistant professor of physical education where he  taught physical education courses geared toward the school's future teachers",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Elmer Mitchell\tMitchell attended the University of Michigan, where he played on the varsity baseball team for three years, under head coach and eventual [[National_Baseball_Hall_of_Fame_and_Museum|Baseball Hall of Fame]] member [[Branch_Rickey|Branch Rickey]].\nElmer Mitchell\tIn 1915, Mitchell was hired as an assistant professor of physical education at Michigan State Normal College (MSNC)—now known as [[Eastern_Michigan_University|Eastern Michigan University]]—in [[Ypsilanti,_Michigan|Ypsilanti, Michigan]].\nElmer Mitchell\tWhile at MSNC, Mitchell taught physical education courses geared toward the school's future teachers, covering such topics as playground direction and athletic coaching, and he co-wrote a book about basketball."
+  },
+  {
+    "id": 41647,
+    "claim": "Derek Landmesser, a Canadian former professional ice hockey player, was awarded not only the CHL Most Outstanding Defenceman from 2000 to 2001, but also the CHL All-CHL Team for three consecutive years.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Derek Landmesser\tDerek Landmesser (born January 27, 1975) is a [[Canadians|Canadian]] former professional ice hockey player and coach who most recently served as the head coach of the [[Southern_Professional_Hockey_League|Southern Professional Hockey League]]'s (SPHL) [[Mississippi_RiverKings|Mississippi RiverKings]].\nDerek Landmesser\tHe went on to play 15 seasons of professional hockey, including 10 seasons in the [[Central_Hockey_League|Central Hockey League]] (CHL) where he played 627 regular season games, scoring 563 points from the [[Blue_line_(ice_hockey)|blue line]].\nDerek Landmesser\tHe was named the CHL's most outstanding defenceman for the [[2000–01_CHL_season|2000–01 CHL season]], and was three times named to the All-CHL Team."
+  },
+  {
+    "id": 43665,
+    "claim": "TvN10 Awards is an award ceremony for excellence in cinema divided into two categories: drama and variety with the grandest highlight, the Grand Prize (Daesang), Drama and the Grand Prize (Daesang), Variety and was held in KINTEX in Ilsanseo-gu, Goyang, Gyeonggi Province, South Korea..",
+    "label": "refutes",
+    "challenge": "Combining Tables and Text",
+    "evidence": "TvN10 Awards\ttvN10 Awards is an award ceremony for excellence in television in [[South_Korea|South Korea]], organized by [[TVN_(South_Korean_TV_channel)|tvN]], one of the networks under the umbrella of [[CJ_E&M|CJ E&M]]."
+  },
+  {
+    "id": 7335,
+    "claim": "The debut studio album of the English band Scouting for Girls, Everybody Wants to Be on TV, received a perfect rating from the BBC.",
+    "label": "refutes",
+    "challenge": "Other",
+    "evidence": "Everybody Wants to Be on TV\tEverybody Wants to Be on TV is the second studio album by the English band [[Scouting_for_Girls|Scouting for Girls]]."
+  },
+  {
+    "id": 18828,
+    "claim": "Arthur Rigby was an electrician by trade who initially started his football career as a goalkeeper and he played 13 games, scoring one goal, in his first season.",
+    "label": "supports",
+    "challenge": "Other",
+    "evidence": "Arthur Rigby\tArthur Rigby was an electrician by trade who initially started his football career as a [[Goalkeeper_(association_football)|goalkeeper]] until after a trial with [[Stockport_County_F.C.|Stockport County]], signed as a [[Midfielder#Winger|winger]] for [[Crewe_Alexandra_F.C.|Crewe Alexandra]] after the [[First_World_War|First World War]].\nArthur Rigby\tHe played 13 games, scoring one goal, in his first season at City, before the club was relegated in his first full season."
+  }
+]
