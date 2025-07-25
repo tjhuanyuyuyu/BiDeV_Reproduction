@@ -14,7 +14,6 @@ class Perceptor:
             "1. Unresolved Entity: a person, object, or event mentioned without sufficient specificity (e.g., 'the writer').\n"
             "2. Undetermined Attribute: a missing detail about a known entity (e.g., birth date, nationality, or role).\n\n"
             "Please identify these two types of latent information and generate ONE precise and concrete question, the answer to which should make the claim more explicit. \n"
-            # "Please generate ONE precise and concrete question that, if answered, would make the claim more explicit.\n"
             "When generating questions, avoid using vague or yes/no questions. Focus on factual clarification.\n\n"
             "**If multiple latent pieces of information exist, choose the one with the highest priority.The specific priority determination rules are as follows:**\n"
             "1. First, prefer unresolved entities over undetermined attributes.\n"

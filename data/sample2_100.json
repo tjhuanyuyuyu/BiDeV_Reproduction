@@ -1,0 +1,702 @@
+[
+  {
+    "id": "cf02be11-3f2d-4d86-86ce-3a390824a999",
+    "claim": "On September 2, 2002, voice actor Richard White appeared in Disney's House of Mouse during an all night marathon of this comedy show titled \"Night of 1000 Toons\" aired on Toon Disney.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Disney's House of Mouse is an American animated television series, produced by Walt Disney Television Animation (now Disney Television Animation), that originally aired from 2001 to 2003. On September 2, 2002, an all night marathon of this show titled \"Night of 1000 Toons\" aired on Toon Disney. \"Disney's House of Mouse\" is a spin-off of the popular short-lived Disney series \"Mickey Mouse Works\", and featured many Mouse Works shorts as well as new shorts created specifically for the spin-off series.\nRichard White is an American actor and opera singer best known for voicing the character of Gaston in Disney's \"Beauty and the Beast\" and in the TV series \"House of Mouse\"."
+  },
+  {
+    "id": "4a639eed-e465-4d79-b4a5-943b3a8b1079",
+    "claim": "Iqaluit Airport and Canadian North are based out of Montreal.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Iqaluit Airport (IATA: YFB, ICAO: CYFB) serves Iqaluit, Nunavut, Canada and is located adjacent to the town. It is operated by the government of Nunavut. It hosts scheduled passenger service from Ottawa, Montreal, Rankin Inlet and Kuujjuaq on carriers such as First Air and Canadian North, and from smaller communities throughout eastern Nunavut. It is also used as a forward operating base by the CF-18 Hornet. In 2011, the terminal handled more than 120,000 passengers.\nCanadian North Inc. is an airline headquartered in Calgary, Alberta, Canada. It operates scheduled passenger services to communities in the Northwest Territories and Nunavut. Southern gateways include Edmonton and Ottawa. Its main base is Edmonton Airport."
+  },
+  {
+    "id": "6a7c7647-1dd0-4887-9bd5-9a7f42ba79da",
+    "claim": "The Tv Host that crowned Michelle Reis as the first Miss Chinese International founded the film production company Shaw Brothers Studio.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Miss Chinese International Pageant 1988, the 1st Miss Chinese International Pageant was held on October 2, 1988 in Hong Kong. The pageant was organized and broadcast by TVB in Hong Kong. At the end of the pageant, Run Run Shaw crowned Michelle Reis of Hong Kong as the first Miss Chinese International. Hong Kong would not win the pageant, until 12 years later when Sonija Kwok won the crown in 2000.\nSir Run Run Shaw, GBM, CBE ( November 23, 1907 – 7 January 2014), also known as Shao Yifu and Siu Yat-fu, was a Hong Kong entertainment mogul and philanthropist. He was one of the most influential figures in the Asian entertainment industry. He founded the Shaw Brothers Studio, one of the largest film production companies in Hong Kong, and TVB, the dominant television company in Hong Kong."
+  },
+  {
+    "id": "2922745f-5998-4f34-a1f7-b6bd43d21a36",
+    "claim": "The Fox network hosted a show on which Ron Howard serves as both an executive producer and the series' uncredited narrator which aired from 2003 to 2009.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Brad Copeland is an American television writer and producer, best known for his work on the Fox TV series \"Arrested Development\".\nArrested Development is an American television sitcom created by Mitchell Hurwitz, which originally aired on Fox for three seasons from November 2, 2003, to February 10, 2006. A fourth season of 15 episodes was released on Netflix on May 26, 2013. The show follows the fictitious Bluth family, a formerly wealthy and habitually dysfunctional family. It is presented in a continuous format, incorporating handheld camera work and voice-over narration, as well as the use of occasional archival photos and historical footage. The show also utilizes several long-running \"Easter egg\" jokes throughout each season. Ron Howard serves as both an executive producer and the series' uncredited narrator. Set in Newport Beach, California, \"Arrested Development\" was filmed primarily in Culver City and Marina del Rey."
+  },
+  {
+    "id": "df829434-74ab-4e5e-b1d4-c85af30d7911",
+    "claim": "The song Crazy Little Thing Called Love was originally written by Sara Evans and covered by Dwight Yoakam.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "21st Century Hits: Best of 2000–2012 is the fourth greatest hits compilation album by American country music artist Dwight Yoakam. It was released by New West Records on October 1, 2013. It includes songs from the albums \"Tomorrow's Sounds Today\", \"Population Me\", \"Blame the Vain\", \"Dwight Sings Buck\" and \"3 Pears\", as well as a cover of \"Crazy Little Thing Called Love\" from his last best-of \"\" and a previously unreleased duet with Michelle Branch.\n\"Crazy Little Thing Called Love\" is a song by the British rock band Queen. Written by Freddie Mercury in 1979, the track is featured on their 1980 album \"The Game\", and also appears on the band's compilation album, \"Greatest Hits\" in 1981. The song peaked at number two in the UK Singles Chart in 1979, and became the group's first number-one single on the \"Billboard\" Hot 100 in the US in 1980, remaining there for four consecutive weeks. It topped the Australian ARIA Charts for seven weeks."
+  },
+  {
+    "id": "1e9d4192-e214-4d21-a3eb-b6e861900f84",
+    "claim": "Days of the New and TV on the Radio are not from New York.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "TV on the Radio is an American indie rock band from Brooklyn, New York, formed in 2001. For most of the band's existence, the core band lineup has been Tunde Adebimpe (vocals, loops), David Andrew Sitek (guitars, keyboards, loops), Kyp Malone (vocals, guitars, bass, loops) and Jaleel Bunton (drums, vocals, loops, guitars) as official members. Gerard Smith (bass, keyboards) was with the band from 2005 until his death in 2011. Other contributors have included David Bowie, Nick Zinner of Yeah Yeah Yeahs, Trent Reznor of Nine Inch Nails, Kazu Makino of Blonde Redhead, Martin Perna of Antibalas, Colin Stetson, and Katrina Ford of Celebration. The group has released several EPs including their debut \"Young Liars\" (2003), and five studio albums: \"Desperate Youth, Blood Thirsty Babes\" (2004), \"Return to Cookie Mountain\" (2006), \"Dear Science\" (2008), \"Nine Types of Light\" (2011), and \"Seeds\" (2014).\nDays of the New is an American rock band from Charlestown, Indiana, formed in 1995. The band consists of vocalist/guitarist Travis Meeks and a variety of supporting musicians that briefly included future pop star Nicole Scherzinger. They are best known for the hit singles \"Touch, Peel and Stand\", \"The Down Town\", \"Shelf in the Room\", and \"Enemy\"."
+  },
+  {
+    "id": "c62e6d3f-bb12-4d18-93a7-bf86f67a9ea2",
+    "claim": "Eleanor McGovern was the wife of the Senator who was the presidential nominee in 1972.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "George Stanley McGovern (July 19, 1922 – October 21, 2012) was an American historian, author, U.S. Representative, U.S. Senator, and the Democratic Party presidential nominee in the 1972 presidential election.\nEleanor Fay Stegeberg McGovern (November 25, 1921 – January 25, 2007) was the wife of George McGovern, who served as a U.S. Senator from South Dakota from 1963–1981, and was the Democratic presidential nominee in 1972."
+  },
+  {
+    "id": "373a7a11-b601-4443-a966-0492eff0e41a",
+    "claim": "The Billion Dollar Hobo is an Oscar-nominated 1977 American comedy film starring Will Geer and an actor that is the voice of \"SpongeBob SquarePants\" character Barnacle Boy.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Thomas Daniel \"Tim\" Conway (born December 15, 1933) is an American actor, writer, director, and comedian. He is known for his role as the inept Ensign Charles Parker in the 1960s World War II situation comedy \"McHale's Navy\", for his sketch comedy as a co-star on the 1960s variety program \"The Carol Burnett Show\", for starring as the title character in the Dorf series of comedy films, and for cartoon voice work as the voice of Barnacle Boy in the animated series \"SpongeBob SquarePants\".\nThe Billion Dollar Hobo is a 1977 American comedy film starring Tim Conway and Will Geer (in his last role)."
+  },
+  {
+    "id": "1b541ee9-3d09-4302-abcc-82e4feac174c",
+    "claim": "Radhika Sanghani is a crime-fiction writer and journalist forThe Daily Telegraph, founded by Arthur B. Sleigh in 1855.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Daily Telegraph, commonly referred to simply as The Telegraph, is a national British daily broadsheet newspaper published in London by Telegraph Media Group and distributed across the United Kingdom and internationally. It was founded by Arthur B. Sleigh in 1855 as \"The Daily Telegraph and Courier\".\nRadhika Sanghani is a writer and journalist for such publications as \"The Daily Telegraph\" and the author of such books as \"\" and \"Not That Easy\"."
+  },
+  {
+    "id": "d70cd64d-8a1c-4f68-aae7-0c2b061f094d",
+    "claim": "The Red Butte Creek oil spill occurre din a pipeline that was owned by Chevron Corporation, the successor company to Standard Oil.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Chevron Corporation () is an American multinational energy corporation. One of the successor companies of Standard Oil, it is headquartered in San Ramon, California, and active in more than 180 countries. Chevron is engaged in every aspect of the oil, natural gas, and geothermal energy industries, including hydrocarbon exploration and production; refining, marketing and transport; chemicals manufacturing and sales; and power generation. Chevron is one of the world's largest oil companies; as of 2014 , it ranked third in the Fortune 500 list of the top US closely held and public corporations and sixteenth on the Fortune Global 500 list of the top 500 corporations worldwide. It was also one of the Seven Sisters that dominated the global petroleum industry from the mid-1940s to the 1970s.\nThe Red Butte Creek oil spill was caused by a rupture in a medium crude oil pipeline that occurred on June 11 and 12 2010. The Chevron Pipeline (CPL) is 10 inches in diameter and runs from western Colorado to a Chevron Corporation oil refinery near Salt Lake City Utah. A half inch diameter hole in the pipeline was caused by an electrical arc from high voltage power lines to a metal fence post buried a few inches above the pipeline."
+  },
+  {
+    "id": "7755251e-370e-4b37-8cb9-601453bee1e8",
+    "claim": "Full Circle is an American soap opera that starred Dyan Cannon and Jean Byron, who portrayed Patty Lane's mother in the 1964 series \"The Patty Duke Show\".",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Full Circle is an American soap opera that aired on CBS from June 27, 1960 to March 10, 1961. The half-hour series starred Dyan Cannon and Jean Byron, and was the first American soap opera to be broadcast live from Hollywood.\nJean Byron (born Imogene Audette Burkhart; December 10, 1925February 3, 2006) was an American film, television, and stage actress. She is best known for the role of Natalie Lane, Patty Lane's mother in \"The Patty Duke Show\"."
+  },
+  {
+    "id": "238e8967-2527-43ea-b7c7-7d2c18e74741",
+    "claim": "\"The Fixer\" is a song from an album produced by Brendan O'Brien .",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "\"The Fixer\" is a song by the American rock band Pearl Jam. Featuring lyrics written by vocalist Eddie Vedder and music co-written by drummer Matt Cameron and guitarists Mike McCready and Stone Gossard, \"The Fixer\" was released on August 24, 2009 as the first single from the band's ninth studio album, \"Backspacer\" (2009). The song debuted and peaked at number two on the \"Billboard\" Rock Songs chart and reached number three on the \"Billboard\" Alternative Songs chart.\nBackspacer is the ninth studio album by the American alternative rock band Pearl Jam, released on September 20, 2009. The bandmembers started writing instrumental and demo tracks in 2007, and got together in 2008 to work on an album. It was recorded from February through April 2009 with producer Brendan O'Brien, who had worked on every Pearl Jam album except their 1991 debut \"Ten\" and 2006's self-titled record—although this was his first production credit since 1998's \"Yield\". Material was recorded in Henson Recording Studios in Los Angeles, California and O'Brien's own Southern Tracks Recording in Atlanta, Georgia. The music on the album—the shortest of the band's career—features a sound influenced by pop and new wave. The lyrics have a more optimistic look than the ones in the politic-infused predecessors \"Riot Act\" and \"Pearl Jam\", something frontman Eddie Vedder attributed to the election of Barack Obama."
+  },
+  {
+    "id": "ea44c25c-e2be-4fe0-a252-080d128ebf31",
+    "claim": "Ottokar Kernstock wrote the song that was sung to the famous tune of the composer known as the Father of the Symphony.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "\"Sei gesegnet ohne Ende\" (English translation: \"Be Blessed Without End\"), also known as the ″Kernstock-Hymne″, is a German language song that was the national anthem of Austria from 1929 until 1938. Written by Ottokar Kernstock, it was sung to the famous tune of \"Gott erhalte Franz den Kaiser\" by Joseph Haydn that is also used for the \"Deutschlandlied\", since 1922 the national anthem of Germany.\n(Franz) Joseph Haydn ( ; ] ; 31 March 173231 May 1809) was an Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the piano trio and his contributions to musical form have earned him the epithets \"Father of the Symphony\" and \"Father of the String Quartet\"."
+  },
+  {
+    "id": "8afff0bf-c34f-4198-b70c-72d17dec47fc",
+    "claim": "the American electronic musician and singer who collaborated on the album I Remember was born in 1989.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "I Remember is the second studio album by English electronic music duo AlunaGeorge. It was released on 16 September 2016 by Island Records. The album includes collaborations with Popcaan, Zhu, Leikeli47, Dreezy, Flume and Pell. The album's lead single, \"I'm in Control\", was released in February 2016, featuring vocals from rapper Popcaan, and peaked at number 39 on the UK Singles Chart.\nSteven Zhu (born 1989), known professionally as Zhu ( or ), is a Chinese American electronic musician and singer who has been active since the beginning of 2014, signed to Mind of a Genius Records and Columbia Records. Until mid-2014, Zhu remained anonymous, asking to be judged by his music alone. His debut album, \"Generationwhy\", was released on 29 July 2016."
+  },
+  {
+    "id": "6b91af40-111e-4e4f-87a0-2b40b1add14e",
+    "claim": "Stephanie Caroline March is the American actress that stars in the movie \"Innocesnce\" and is best known for her role as Alexandra Cabot in a long-running NBC series.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Innocence is a 2013 American horror drama film directed by Hilary Brougher, who co-wrote the film with Tristine Skyler. The movie is based on the 2000 novel of the same name by Jane Mendelsohn. It had its world premiere on 26 October, 2013 at the Austin Film Festival and received a limited theatrical release in the United States on 5 September, 2014. The movie stars Sophie Curtis, Kelly Reilly, Graham Phillips, Linus Roache, Sarah Sutherland and Stephanie March.\nStephanie Caroline March (born (1974--) 23, 1974 ) is an American actress. She is best known for her role as Alexandra Cabot in the long-running NBC series, \"\"."
+  },
+  {
+    "id": "bc855311-3d85-4b4b-b219-1a5c2aebb6d1",
+    "claim": "Gemma Rovira Ortega translated into Spanish the 2007 and 2008 best selling book in Greece as well as The Kingkiller Chronicle series by Patrick Rothfuss.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Gemma Rovira Ortega (born in 1974) is an English-Spanish translator from Barcelona, known for translating the Harry Potter series, The Boy in the Striped Pyjamas by John Boyne and The Kingkiller Chronicle series by Patrick Rothfuss into Spanish.\nThe Boy in the Striped Pyjamas is a 2006 Holocaust novel by Irish novelist John Boyne. Unlike the months of planning Boyne devoted to his other books, he said that he wrote the entire first draft of \" The Boy in the Striped Pyjamas\" in two and a half days, barely sleeping until he got to the end. As of March 2010, the novel had sold more than five million copies around the world. In both 2007 and 2008, it was the best selling book of the year in Spain, and it has also reached number one on the \"New York Times\" bestseller list, as well as in the UK, Ireland, and Australia. The book was adapted in 2008 as a film of the same name."
+  },
+  {
+    "id": "51359b56-e6d8-48df-839a-3a167e14c737",
+    "claim": "The Big Lebowski is the 1998 British-American crime comedy film, whose soundtrack included Lujon.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "The Big Lebowski is a 1998 British-American crime comedy film written, produced, and directed by Joel and Ethan Coen. It stars Jeff Bridges as Jeffrey \"The Dude\" Lebowski, a Los Angeles slacker and avid bowler. He is assaulted as a result of mistaken identity, after which The Dude learns that a millionaire also named Jeffrey Lebowski was the intended victim. The millionaire Lebowski's trophy wife is kidnapped, and he commissions The Dude to deliver the ransom to secure her release; but the plan goes awry when the Dude's friend Walter Sobchak (John Goodman) schemes to keep the ransom money. Julianne Moore and Steve Buscemi also star, with David Huddleston, John Turturro, Philip Seymour Hoffman, Sam Elliott, Tara Reid, David Thewlis and Flea appearing in supporting roles.\n\"Lujon\" (also known as \"Slow Hot Wind\") is a musical piece by Henry Mancini. It appeared on his 1961 album \"Mr. Lucky Goes Latin\", but was an original piece of music that had nothing to do with the \"Mr. Lucky\" television program. It was included in the soundtracks for the films \"The Big Lebowski\", \"Sexy Beast\", \"W.E.\", and \"Two Lovers\". Its name comes from the lujon percussion instrument heard on the recording."
+  },
+  {
+    "id": "2a45134b-a1b0-4c97-86e0-f37a52bab450",
+    "claim": "The movie \"100 Million BC\" continues the urban myth of an experiment allegedly carried out at the Philadelphia Naval Shipyard.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "100 Million BC is a 2008 direct-to-DVD action film by film studio The Asylum, continuing the urban myth of the Philadelphia Experiment.\nThe Philadelphia Experiment is an alleged military experiment supposed to have been carried out by the U.S. Navy at the Philadelphia Naval Shipyard in Philadelphia, Pennsylvania, sometime around October 28, 1943. The U.S. Navy destroyer escort  was claimed to have been rendered invisible (or \"cloaked\") to enemy devices."
+  },
+  {
+    "id": "2d24567e-7ed0-4103-b56b-29c7ae8a5349",
+    "claim": "The Burlington Mall is a large, two-story, indoor shopping mall complex located a half of a mile off Route 3 and Route 128 in Burlington, Massachusetts, the mall is one of many shopping venues in the Middlesex County area, including Square One Mall, a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Square One Mall (formerly the New England Shopping Center) is a 115 store shopping mall located along US Route 1 (Broadway) between Main Street and Essex Street in Saugus, Massachusetts. Anchor stores include Sears, Macy's, Dick's Sporting Goods, Best Buy, T.J. Maxx, and BD's Furniture.\nThe Burlington Mall is a large, two-story, indoor shopping mall complex located off Route 3 and Route 128 in Burlington, Massachusetts. The mall is one of many shopping venues in the Middlesex County area, including the Shops at Billerica, Square One Mall, Acton Plaza, and Middlesex Commons. The Burlington Mall has a gross leasable area of 1282339 sqft . The mall has approximately 170 shops and restaurants, including a large food court (capable of seating 775), and is in a high-density commercial district. Built in 1968, it was expanded in the 1970s and 1980s. It is managed by Simon Property Group, Inc."
+  },
+  {
+    "id": "52c00635-393e-486c-8ab1-436190280a16",
+    "claim": "Ralek Gracie is the nephew of a retired mixed martial artist who was born in 1958.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Rickson Gracie (] ; born November 21, 1958) is a Brazilian 9th degree red belt in Gracie Jiu-Jitsu and a retired mixed martial artist. He is a member of the Gracie family: the son of Hélio Gracie, brother to Rorion and Relson Gracie, and half-brother to Rolker, Royce, Robin and Royler Gracie. In November 2014 he became an inductee of the Legends of MMA Hall of Fame, alongside Big John McCarthy, Pat Miletich, and Fedor Emelianenko.\nRalek Gracie ( ; born October 4, 1985) is an American Brazilian jiu-jitsu practitioner and mixed martial artist. As the son of Rorion Gracie, he is a member of the Gracie family, and the nephew of Legends of MMA Hall of Famer Rickson Gracie and UFC Hall of Famer Royce Gracie. He was awarded his black belt in Brazilian jiu-jitsu by his grandfather Hélio Gracie. He is also the founder of Metamoris, a submission-only grappling promotion."
+  },
+  {
+    "id": "9ed8ecdf-ab61-4852-9444-2a1dcf47e012",
+    "claim": "Vernon Kay hosted the ITV shows Celebrities Under Pressure and All Star Family Fortunes.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Vernon Charles Kay (born 28 April 1974) is an English television presenter, radio DJ and former model best known for his television roles with ITV, presenting shows such as \"All Star Family Fortunes\" (2006–2015), \"Beat the Star\" (2008–2009) and \"Splash!\" (2013–2014).\nCelebrities Under Pressure is a British game show that aired on ITV from 13 September 2003 to 7 August 2004. It was first hosted by Melanie Sykes for series 1 & 2 and then hosted by Vernon Kay for series 3."
+  },
+  {
+    "id": "ee3f2b56-8a79-4cf5-9134-2c95159e6721",
+    "claim": "Mount Cammerer is a mountain on the northeastern fringe of the Great Smoky Mountains, the Appalachian Trail traverses Cammerer's south slope and a restored rustic lookout at the summit offers panoramic views of the eastern Smokies, Cocke County, and Blue Ridge Mountains of the larger Appalachian Mountains range.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Blue Ridge Mountains are a physiographic province of the larger Appalachian Mountains range. This province consists of northern and southern physiographic regions, which divide near the Roanoke River gap. The mountain range is located in the eastern United States, starting at its southernmost portion in Georgia, then ending northward in Pennsylvania. To the west of the Blue Ridge, between it and the bulk of the Appalachians, lies the Great Appalachian Valley, bordered on the west by the Ridge and Valley province of the Appalachian range.\nMount Cammerer is a mountain on the northeastern fringe of the Great Smoky Mountains, in the Southeastern United States. The mountain is situated on the state line between Cocke County, Tennessee and Haywood County, North Carolina. The Appalachian Trail traverses Cammerer's south slope and a restored fire lookout at the summit offers panoramic views of the eastern Smokies, Cocke County, and the Blue Ridge Mountains."
+  },
+  {
+    "id": "5cab2ad6-770b-4c55-8b67-4841cf21b802",
+    "claim": "The star in a 1953 epic Warner Bros. film adaption of the play by Shakespeare was an American actor, film director and political activist.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Marlon Brando Jr. (April 3, 1924 – July 1, 2004) was an American actor, film director and political activist. He is widely credited with bringing realism to film acting. He helped to popularize the Stanislavski system of acting, studying with Stella Adler in the 1940s. Brando is widely known for his Academy Award-winning performances as Terry Malloy in \"On the Waterfront\" (1954) and Vito Corleone in \"The Godfather\" (1972), as well as his performances in \"A Streetcar Named Desire\" (1951), \"Viva Zapata!\" (1952), \"Julius Caesar\" (1953), \"The Wild One\" (1953), \"Guys and Dolls\" (1955), \"Sayonara\" (1957), \"Last Tango in Paris\" (1972), and \"Apocalypse Now\" (1979). Brando was also an activist for many causes, notably the Civil Rights Movement and various Native American movements.\nJulius Caesar is a 1953 epic Metro-Goldwyn-Mayer film adaptation of the play by Shakespeare, directed by Joseph L. Mankiewicz, who also wrote the uncredited screenplay, and produced by John Houseman. The original music score is by Miklós Rózsa. The film stars Marlon Brando as Mark Antony, James Mason as Brutus, John Gielgud as Cassius, Louis Calhern as Julius Caesar, Edmond O'Brien as Casca, Greer Garson as Calpurnia, and Deborah Kerr as Portia."
+  },
+  {
+    "id": "fc043713-7815-4bef-a5f5-beedfc6cea85",
+    "claim": "George Raymond Jr was a member of a political party created in the winter of 1964.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Mississippi Freedom Democratic Party (MFDP) was an American political party created in 1964 as a branch of the populist Freedom Democratic organization in the state of Mississippi during the Civil Rights Movement. It was organized by African Americans and whites from Mississippi to challenge the legitimacy of the regular Mississippi Democratic Party, which allowed participation only by whites, when African Americans made up 40% of the state population.\nGeorge Raymond, Jr. (January 1, 1943 – March 8, 1973) was an African-American civil rights activist, a member of the Mississippi Freedom Democratic Party, a Freedom Rider, and head of the Congress of Racial Equality in Mississippi in the 1960s. Raymond influenced many of Mississippi's most known activists, such as Anne Moody, C. O. Chinn, and Annie Devine to join the movement and was influential in many of Mississippi's most notable Civil Rights activities such as a Woolworth's lunchcounter sit-in and protests in Jackson, Mississippi, Meredith Mississippi March, and Freedom Summer."
+  },
+  {
+    "id": "88a22435-633a-423f-8d8a-08395dc158ae",
+    "claim": "The actor who starred as Constable Tori Spelling in the television series \"Due South\" had  a child with Martha Burns.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Hannah Gross (born September 25, 1992) is a Canadian actress. She is the daughter of fellow actors Martha Burns and Paul Gross.\nPaul Michael Gross, OC (born April 30, 1959) is a Canadian actor, producer, director, singer, and writer born in Calgary, Alberta. He is known for his lead role as Constable Benton Fraser in the television series \"Due South\" as well as his 2008 war film \"Passchendaele\", which he wrote, produced, directed, and starred in. During \"Due South\"<nowiki>'</nowiki>s final season, Gross acted as executive producer in addition to starring, wrote the season three opener and finale, the two part series finale and wrote and sang songs for the show, some of which can be found on the two \"Due South\" soundtracks. He later found success with another Canadian TV series, \"Slings and Arrows\". He also produced one film with Akshay Kumar called Speedy Singhs starring Camilla Belle and Vinay Virmani."
+  },
+  {
+    "id": "e6a90870-cc2d-4340-978f-27f1d794247f",
+    "claim": "The non-fiction book \"Finding Chandra\" is about an affair between the victim and a congressman that holds a B.B.A from the USC Marshall School of Business.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Gary Adrian Condit (born April 21, 1948) is a former politician and member of the Democratic Party who served in the House of Representatives from 1989 to 2003. Condit holds a B.B.A from the USC Marshall School of Business. Condit originally represented California's 15th congressional district, and then later California's 18th congressional district after redistricting following the 1990 census.\nFinding Chandra: A True Washington Murder Mystery is a non-fiction book by Scott Higham and Sari Horwitz, two Pulitzer Prize-winning investigative journalists at the \"Washington Post\". The book, released in May 2010, chronicles the 2001 disappearance of Washington, DC intern Chandra Levy, whose remains were found one year later in an isolated area of the city's 2800 acre Rock Creek Park. Higham and Horwitz present a thoroughly researched narrative of Chandra's case and the factors that complicated it—an affair between the victim and Congressman Gary Condit, missteps by DC law enforcement, and relentless scrutiny from national media. \"Finding Chandra\" has received early praise, most notably from fellow \"Washington Post\" colleague Bob Woodward, who declared it to be \"Washington's \"In Cold Blood\", expertly and marvelously told by two of journalism's greatest investigative reporters.\""
+  },
+  {
+    "id": "2f3f61c9-8220-4762-9363-00474a9facdd",
+    "claim": "Republic New York Corporation was the holding company for the Republic National Bank of New York and the Safra Republic Bank. Republic New York Corporation was sold shortly after its chairman's death to HSBC Bank USA, the US subsidiary of the British multinational banking and financial services holding company,  HSBC Holdings PLC, which traces its origin to a California in Hong Kong.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "HSBC Holdings PLC is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the world's seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation Limited to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its \"home markets\".\nRepublic New York Corporation was the holding company for the Republic National Bank of New York and the Safra Republic Bank. The company was controlled by billionaire Edmond Safra, who was killed in a fire in his Monte Carlo penthouse apartment by his nurse Ted Maher. Republic New York Corporation was sold shortly after its chairman's death to HSBC Bank USA, the US subsidiary of HSBC of the UK."
+  },
+  {
+    "id": "e1584204-154a-426e-ab3d-bc44a6e33368",
+    "claim": "The Ran Paul presidential campaign, 2016 event was held at a hotel on the Ohio River.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "The 2016 presidential campaign of Rand Paul, the junior United States Senator from Kentucky, was announced on April 7, 2015 at an event at the Galt House in Louisville, Kentucky. First elected to the U.S. Senate in the 2010 election, Paul's candidacy for the Republican nomination for President of the United States in 2016 had been widely speculated since early 2013.\nThe Galt House is a 25-story, 1300-room hotel in Louisville, Kentucky established in 1972. It is named for a nearby historic hotel erected in 1837 and demolished in 1921. The Galt House is the city's only hotel on the Ohio River."
+  },
+  {
+    "id": "2182ae04-2678-4be0-ae9f-4e70f3202b41",
+    "claim": "The German actress who is best known for her role as the Borg Seven of Nine and who has role in \"Body of Proof\" as Dr. Kate Murphy was born February 22, 1968.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "The second season of \"Body of Proof\", an American television series created by Christopher Murphey, commenced airing in the United States on September 20, 2011, concluded April 10, 2012, and consisted of 20 episodes. It follows the life and career of Dr. Megan Hunt, a medical examiner, once a neurosurgeon, who now works in Philadelphia's Medical Examiner's office after a car accident ended her neurosurgery career. Along with Hunt solving homicide cases are her colleagues, Nicholas Bishop as Peter Dunlop, Jeri Ryan as Dr. Kate Murphy, John Carroll Lynch and Sonja Sohn as Detective's Bud Morris and Samantha Baker and fellow medical examiners, Geoffrey Arend as Dr. Ethan Gross and Windell Middlebrooks as Dr. Curtis Brumfield. Mary Mouser who plays Megan's daughter Lacey was promoted to \"regular\" from \"recurring\" status from season 1. Jeffrey Nordling who plays Megan's ex-husband Todd, Joanna Cassidy who plays her mother Joan and Eric Sheffer Stevens who plays Bill Parkson all reprise their roles, whilst Cliff Curtis, Nathalie Kelley and Jamie Bamber join the show, all of which appear on a \"recurring\" basis.\nJeri Lynn Ryan (born Jeri Lynn Zimmermann; February 22, 1968) is a German actress best known for her role as the Borg Seven of Nine on \"\", for which she was nominated four times for a Saturn Award and won in 2001."
+  },
+  {
+    "id": "c1acf345-e788-47b7-9248-756738fa0348",
+    "claim": "Danny Jones and Aleksi Sihvonen are both vocalist.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Danny Jones (born 12 March 1986) is a British musician who is one of the lead vocalists and guitarists for pop-rock band McFly. Jones' fellow band members are Tom Fletcher (guitar and vocals), Dougie Poynter (bass and vocals), and Harry Judd (drums).\nAleksi Sihvonen is the current vocalist for the Finnish band Medicated. He replaced Norther's vocalist Petri Lindroos in 2009, until the group disbanded in 2012. He was also the former guitarist and vocalist of Imperanon."
+  },
+  {
+    "id": "b92fe20f-bc53-442d-8608-4b7dbce0293d",
+    "claim": "Pablo Jose Ozuna is the cousin of a Dominican professional baseball left fielder who made his MLB debut in 2013.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Marcell Ozuna Idelfonso (born November 12, 1990) is a Dominican professional baseball left fielder for the Miami Marlins of Major League Baseball (MLB). He made his MLB debut in 2013.\nPablo José Ozuna (born August 25, 1974) is a retired Dominican Republic professional baseball utility player. During his major league career, he played for the Florida Marlins (2000 , 2002 ) the Colorado Rockies (2003 ), the Chicago White Sox (2005 -2008 ), and the Los Angeles Dodgers (2008 ). He is the cousin of current Miami Marlins outfielder Marcell Ozuna."
+  },
+  {
+    "id": "4e100763-be42-4b80-b5c9-376f1c8a6d90",
+    "claim": "Multiple award-winning actor Gary Sinise appeared in The Stand in 1994 - a miniseries based on a novel and screenplay by Casey Siemaszko.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Gary Alan Sinise ( ; born March 17, 1955) is an American actor, director, and musician. Among other awards, he has won an Emmy Award, a Golden Globe Award, a star on Hollywood Walk of Fame and has been nominated for an Academy Award.\nThe Stand is a 1994 American television miniseries based on the novel of the same name by Stephen King. King also wrote the teleplay and has a minor role in the series. It was directed by Mick Garris and stars Gary Sinise, Miguel Ferrer, Rob Lowe, Ossie Davis, Ruby Dee, Jamey Sheridan, Laura San Giacomo, Molly Ringwald, Corin Nemec, Adam Storke, Ray Walston, and Matt Frewer. It originally aired on ABC starting on May 8, 1994."
+  },
+  {
+    "id": "5e790285-7f76-41d9-887b-8b0338e45529",
+    "claim": "Nigerian-born Rafael Ynoa plays left-field for the MLB team based in the Colorado city of Denver.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Rafael Ynoa (born August 7, 1987) is a Dominican professional baseball third baseman and left fielder in the Colorado Rockies organization. He made his Major League Baseball (MLB) debut with the Rockies in 2014.\nThe Colorado Rockies are an American professional baseball team based in Denver, Colorado. The Rockies compete in Major League Baseball (MLB) as a member club of the National League (NL) West division. The team's home venue is Coors Field, located in the Lower Downtown area of Denver. The Rockies won their only National League championship in 2007, after having won 14 of their final 15 games in order to secure a Wild Card position. In the World Series they were swept by the American League (AL) champion Boston Red Sox in four games. They are one of two MLB franchises to have never won a division title (the other team is the Miami Marlins)."
+  },
+  {
+    "id": "b9b59285-abf3-41a4-9242-046f2dbe84d6",
+    "claim": "Ward Bond co-starred alongside John Wayne in the american World War II submarine drama Operation Pacific.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Wardell Edwin Bond, known as Ward Bond (April 9, 1903 – November 5, 1960), was an American film character actor whose rugged appearance and easygoing charm were featured in more than two hundred films and the NBC television series \"Wagon Train\" from 1957 to 1960. Among his best-remembered roles are Bert, the cop, in Frank Capra's \"It's a Wonderful Life\" (1946) and Captain Clayton in John Ford's \"The Searchers\" (1956).\nOperation Pacific is a 1951 World War II submarine film starring John Wayne and Patricia Neal, featuring Ward Bond and Philip Carey and directed by George Waggner. The technical advisor for this film was Admiral Charles A. Lockwood, the actual Commander, Submarine Forces, Pacific (COMSUBPAC) during World War II."
+  },
+  {
+    "id": "db103f80-3588-41b4-b860-1d8f3935a3bd",
+    "claim": "Superdrag and Collective Soul are both rock bands.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Collective Soul is an American rock band originally from Stockbridge, Georgia. Now based in Atlanta, the group consists of lead vocalist Ed Roland, rhythm guitarist Dean Roland, bassist Will Turpin, drummer Johnny Rabb and lead guitarist Jesse Triplett.\nSuperdrag was an American alternative rock band from Knoxville, Tennessee, United States. The band had a hit with its 1996 single \"Sucked Out\" off their album \"Regretfully Yours\", for which a video clip was broadcast regularly on MTV. The original lineup reunited in 2007, releasing their last album in 2009."
+  },
+  {
+    "id": "bb0f85a0-d0b1-4433-bdf8-1a3e4d8a1fc4",
+    "claim": "Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by Todd McFarlane.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Before acting, Shakir was a barber. He grew up in Harlem and attended a local theater reading where he was picked up. Afterwards, he was hooked up with various acting groups. He attended The New School and graduated in 2001. The actors that Shakir most admires are Viola Davis and Morgan Freeman. Shakir is also an avid comic book fan and has expressed interest in playing Blade or Spawn. He has instead been cast as John McIver, Bushemaster, in the second season of \"Luke Cage\".\nSpawn is a fictional character, an antihero that appears in a monthly comic book of the same name published by Image Comics. Created by Todd McFarlane, the character first appeared in \"Spawn\" #1 (May 1992). Spawn was ranked 60th on \"Wizard\" magazine's list of the Top 200 Comic Book Characters of All Time, 50th on \"Empire\" magazine's list of The 50 Greatest Comic Book Characters and 36th on IGN's 2011 Top 100 Comic Book Heroes."
+  },
+  {
+    "id": "7d7abc4f-38d2-4b84-87da-2655a9589911",
+    "claim": "Tiburzio Spannocchi was the \"king's engineer\" to the King of Portugal, Naples, Sicily and Sardinia and Duke of Milan.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Philip III (Spanish: \"Felipe\" ; 14 April 1578 – 31 March 1621) was King of Spain. He was also, as Philip II, King of Portugal, Naples, Sicily and Sardinia and Duke of Milan.\nTiburzio Spannocchi (1541–1609) (also Spanucchi, Spanochi, Spanoqui, Hispanochi etc.) was \"king's engineer\" to Philip II of Spain and subsequently to Philip III of Spain. He was named \"Chief Engineer\" in 1601."
+  },
+  {
+    "id": "ccb32b71-4523-434c-93d9-f1710929eb2c",
+    "claim": "Liverpool, United Kingdom produced David Price, a British professional boxer born in 1971.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Boxing in Liverpool, United Kingdom includes approximately 22 amateur boxing clubs which have produced notable boxers such as John Conteh, Andy Holligan, Tony Bellew, and David Price.\nDavid Price (born 6 July 1983) is a British professional boxer. He held the British, English, and Commonwealth heavyweight titles between 2012 and 2013, and was one of the division's top-rated prospects in the early 2010s. As an amateur he won a bronze medal at the 2008 Olympics, gold at the 2006 Commonwealth Games, and three ABA titles; all in the super-heavyweight division."
+  },
+  {
+    "id": "2c84f23a-101e-4690-8afb-3e04e5c88614",
+    "claim": "Alan Menken is the director and composer Howard Ashman worked with on his musical released in 1982.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Howard Sings Ashman is a two-disc album compiled by PS Classics as part of their \"Songwriter Series\". The album features Howard Ashman singing selections from his musicals, including \"God Bless You, Mr. Rosewater\" (1979), \"Little Shop of Horrors\" (1982), \"Smile\" (1986), \"The Little Mermaid\" (1989), \"Beauty and the Beast\" (1991) and \"Aladdin\" (1992).\nLittle Shop of Horrors is a horror comedy rock musical, by composer Alan Menken and writer Howard Ashman, about a hapless florist shop worker who raises a plant that feeds on human blood and flesh. The musical is based on the low-budget 1960 black comedy film \"The Little Shop of Horrors\". The music, composed by Menken in the style of early 1960s rock and roll, doo-wop and early Motown, includes several well-known tunes, including the title song, \"Skid Row (Downtown)\", \"Somewhere That's Green\", and \"Suddenly, Seymour\"."
+  },
+  {
+    "id": "77605c74-72d2-4ac8-be60-8e27a6320ce9",
+    "claim": "Tedrow, Ohio lies adjacent to the Ohio Turnpike, a 241. 26 mi highway.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Ohio Turnpike, officially the James W. Shocknessy Ohio Turnpike, is a 241.26 mi , limited-access toll highway in the U.S. state of Ohio, serving as a primary corridor to Chicago and Pittsburgh. The road runs east–west in the northern section of the state, with the western end at the Indiana–Ohio border near Bryan where it meets the Indiana Toll Road, and the eastern end at the Ohio–Pennsylvania border near Petersburg, where it meets the Pennsylvania Turnpike. The road is owned and maintained by the Ohio Turnpike and Infrastructure Commission (OTIC), headquartered in Berea.\nTedrow is an unincorporated community and census-designated place (CDP) in southwestern Dover Township, Fulton County, Ohio, United States. It lies at the intersection of the east-west County Road J with the north-south County Roads 17-2 and 17-3, 3 mi north and 3.5 mi west of the northern edge of the city of Wauseon, the county seat of Fulton County. The community lies less than one mile (about 1 km) north of the Ohio Turnpike, although the nearest exit is several miles away."
+  },
+  {
+    "id": "e845dd95-f99c-4f74-842a-d2644d2ac9f9",
+    "claim": "Ivan Rival is a professor of computer science at a univeristy located in the residential neighbourhood of Sandy Hill.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Ivan Rival (March 15, 1947 – January 22, 2002 in Ottawa, Ontario, Canada) was a Canadian mathematician and computer scientist, a professor of mathematics at the University of Calgary and of computer science at the University of Ottawa.\nThe University of Ottawa (uOttawa or U of O) (French: \"Université d'Ottawa\" ) is a bilingual public research university in Ottawa, Ontario, Canada. The main campus is located on 42.5 ha in the residential neighbourhood of Sandy Hill, adjacent to Ottawa's Rideau Canal. The university offers a wide variety of academic programs, administered by ten faculties. It is a member of the U15, a group of research-intensive universities in Canada. The University of Ottawa is the largest English-French bilingual university in the world."
+  },
+  {
+    "id": "3a9ea523-95dd-497b-aad1-92f36a8779b4",
+    "claim": "Both Rod Lurie and Douchan Gersi work in the food bank.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Rod Lurie (born May 15, 1962) is an Israeli-American director, screenwriter and former film critic.\nDouchan Gersi (1947–2015) was a Slovak-born, Belgium-raised, Bali-based adventurer, documentary filmmaker, author and actor, producer/star with actor James Coburn of \"Explore\", a PBS mini-series. He is the author of numerous books including \"Faces in the Smoke: An Eyewitness Experience of Voodoo, Shamanism, Psychic Healing, and Other Amazing Human Powers\" and \"Explorer\"."
+  },
+  {
+    "id": "1eac71b2-8915-4fa6-93c5-480561f1ca0a",
+    "claim": "The publishing years for American and New York based film magazine published by Hachette Filipacchi Media U.S., where April Bernard worked as senior editor are between 1987 and 2010.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "April Bernard (born 1956) is an American poet. She was born and raised in New England, and graduated from Harvard University. She has worked as a senior editor at \"Vanity Fair\", \"Premiere\", and \"Manhattan, inc\". In the early 1990s, she taught at Amherst College. In Fall 2003, she was Sidney Harman Writer-in-Residence at Baruch College. She currently teaches at Skidmore College in Saratoga Springs, New York. Her work has appeared in \"The New Yorker\", the \"Boston Review\", \"AGNI\", \"Ploughshares\", \"Parnassus\", and \"The New York Review of Books\".\nPremiere was an American and New York City-based film magazine published by Hachette Filipacchi Media U.S., between 1987 and 2010. The original version of the magazine, \"Première\", was established in France in 1976 and is still being published there."
+  },
+  {
+    "id": "e449be1e-3f2c-4993-b1a1-b7b2559907dd",
+    "claim": "Walter Iván Montoya is an Argentine professional footballer who plays for a club that was formed on 25 January 1890.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Walter Iván Montoya (born 21 July 1993) is an Argentine professional footballer who plays as a central midfielder for Spanish club Sevilla FC.\nSevilla Fútbol Club, S.A.D. (] ), or simply Sevilla, is Spain’s oldest sporting club solely devoted to football. Sevilla FC is based in Seville, capital and largest city of the autonomous community of Andalusia. Sevilla FC is one of the teams that play in Spain’s top flight, La Liga. The club was formed on 25 January 1890, Scot Mr. Edward Farquharson Johnston being their first president. A few years later, on October 14, 1905, the club’s articles of association were registered in the Civil Government of Seville under the presidency of the Jerez-born José Luis Gallegos Arnosa."
+  },
+  {
+    "id": "6b0e564d-80a1-40ee-8454-184d73034bb3",
+    "claim": "Mary Small served the county whose seat is Bath.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Mary Small (born September 12, 1954) is an American politician from Maine. A Republican, Small served in the Maine House of Representatives from 1979 to 1994 and the Maine Senate from 1994 to 2002. From 2000 to 2002, Senator Small served as the Republican Floor Leader. Small was unable to seek re-election in 2002 due to term-limits. Small represented Bath, Maine and Sagadahoc County.\nSagadahoc County ( ) is a county located in the U.S. state of Maine. As of the 2010 census, the population was 35,293. Its county seat is Bath. In geographic area, it is the smallest county in Maine."
+  },
+  {
+    "id": "73fd5b1f-21ed-47eb-a57b-4e1810743b74",
+    "claim": "After Patrick Mercer's suspension in April 2014, Shavar Jeffries won the seat for Newark.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Colonel Patrick John Mercer, OBE (born 26 June 1956) is an author and former British politician. He was Conservative shadow homeland security spokesman before being forced to resign by David Cameron in 2007 for making \"unacceptable\" racist remarks in an interview with \"The Times\". He was elected as a Conservative in the 2001 general election, until resigning the party's parliamentary whip in May 2013 following questions surrounding paid advocacy, and was an Independent MP representing the constituency of Newark in Parliament until his resignation at the end of April 2014 after the Standards Committee suspended him for six months for \"sustained and pervasive breach of the house's rules\".\nNewark is a constituency in Nottinghamshire, England. It is currently represented by Robert Jenrick of the Conservative Party, who won the seat in a by-election on 5 June 2014, following the resignation of Patrick Mercer in April 2014."
+  },
+  {
+    "id": "23f0ff9c-7273-4805-8ac8-37b07c4dbc44",
+    "claim": "Russell Crowe  starred in the 1992 film directed by the director of Cherry Falls and gained cult status.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Cherry Falls is a 2000 American slasher film directed by Geoffrey Wright, and starring Brittany Murphy, Jay Mohr, and Michael Biehn. The plot focuses on a small Virginia town where a serial killer is targeting teenaged virgins. After being submitted to and rejected by the MPAA numerous times, the film was never picked up for theatrical distribution and was purchased by USA Films, who telecast it for the first time on July 29, 2000.\nGeoffrey Wright (born 1959) is an Australian film director and screenwriter, who gained cult success with the 1992 film \"Romper Stomper\", which starred Russell Crowe."
+  },
+  {
+    "id": "c5b29517-cc60-49ad-8ed0-11c0c857a427",
+    "claim": "The live album that had, according to Dave Grohl, his favourite song he has ever written, was released April 12, 2011.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "\"These Days\" is the third single, (fourth in the UK), from the American rock band Foo Fighters' seventh studio album \"Wasting Light\". It was written by Dave Grohl and co-produced by Butch Vig. Dave Grohl has stated that it is his favourite song that he has ever written. On August 18, 2012, the Foo Fighters performed \"These Days\" at Pukkelpop, as a tribute to the people who died or were injured there a year earlier, due to a violent thunderstorm that raged over the festival grounds.\nWasting Light is the seventh studio album by American rock band Foo Fighters. It was released on April 12, 2011 on RCA Records, and is the first album to feature rhythm guitarist Pat Smear since \"The Colour and the Shape\" (1997), making the band a five piece with the album. Wishing to capture the essence of the group's earlier work and avoid the artificiality of digital recording, frontman Dave Grohl arranged for the band to record in his garage in Encino, California using only analog equipment. The sessions were supervised by producer Butch Vig, with whom Grohl had worked on Nirvana's \"Nevermind\". Since the old equipment did not allow for many mistakes to be corrected in post-production, the band spent three weeks rehearsing the songs, and Vig had to relearn outdated editing techniques. The band went for a heavier and rawer sound to contrast with the musical experiments from their previous albums, and most of the lyrics were written as Grohl reflected upon his life and possible future. Guest musicians include Bob Mould, Krist Novoselic, Jessy Greene, Rami Jaffe and Fee Waybill."
+  },
+  {
+    "id": "907ab621-400d-47bf-8b78-77657aa40f1a",
+    "claim": "Darryl Kubian's \"O for a Muse of Fire\" is based upon the events surrounding the historical Battle of Agincourt (1415).",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Henry V is a history play by William Shakespeare, believed to have been written around 1599. It tells the story of King Henry V of England, focusing on events immediately before and after the Battle of Agincourt (1415) during the Hundred Years' War. In the First Quarto text, it was entitled \"The Cronicle History of Henry the fift\", which became \"The Life of Henry the Fifth\" in the First Folio text.\nIn March 2015, the New Jersey Symphony Orchestra premiered Darryl's latest work, \"O for a Muse of Fire\", a concert overture for full orchestra and vocal soloist, based on Shakespeare’s Henry V. The work is dedicated to the New Jersey Symphony Orchestra and its music director, Jacques Lacombe. The soloist for the premiere performances with the New Jersey Symphony Orchestra was former October Project lead singer (and former Sony Classical artist) Mary Fahl. The vocal part is adaptable to different vocal ranges."
+  },
+  {
+    "id": "f6d0c848-2a8c-4fed-a847-a69993ac1be4",
+    "claim": "Roberto Gil Zuarth served as private secretary to Mexican president Felipe Calderón, a member of the PAN party from 1973 to 1977.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Felipe de Jesús Calderón Hinojosa, GCB, R.E. (] ; born 18 August 1962) is a Mexican politician who served as President of Mexico from 1 December 2006, to 30 November 2012. He is a member of the National Action Party (\"Partido Acción Nacional\", PAN), one of the three major Mexican political parties.\nRoberto Gil Zuarth (born in Tuxtla Gutiérrez, Chiapas, 10 October 1977) is a Mexican politician affiliated with the PAN. He was Undersecretary of the Interior. He also served as Deputy between 2009 and 2011 during the 61st Legislature. He contended in 2010 for the presidency of the National Action Party against Gustavo Madero Muñoz. He was Private Secretary to Mexican President Felipe Calderón. He currently serves as Senator of the LXIII Legislature of the Mexican Congress. Since September 1, 2015 he is the President of the Mexican Senate."
+  },
+  {
+    "id": "630d404d-04ef-45a1-b281-8e8b547a040a",
+    "claim": "Cecily Neville was the mother of the man who was King of England from 1483 to 1485, she died in 1479 before his reign.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Richard III (2 October 1452 – 22 August 1485) was King of England from 1483 until his death in 1485, at the age of 32, in the Battle of Bosworth Field. He was the last king of the House of York and the last of the Plantagenet dynasty. His defeat at Bosworth Field, the last decisive battle of the Wars of the Roses, marked the end of the Middle Ages in England. He is the subject of the historical play \"Richard III\" by William Shakespeare.\nRaby Castle (grid reference [ NZ12912177] ) is near Staindrop in County Durham, England, among 200 acre of deer park. It was built by John Neville, 3rd Baron Neville de Raby, between approximately 1367 and 1390. Cecily Neville, the mother of the Kings Edward IV and Richard III, was born here. After Charles Neville, 6th Earl of Westmorland, led the failed Rising of the North in favour of Mary, Queen of Scots in 1569 Raby Castle was taken into royal custody."
+  },
+  {
+    "id": "33ebfee3-4917-4e83-ba3c-bebfc4e9acfa",
+    "claim": "Rubi Lira Miranda Palmieri was born in a city whose name honors the Apostle Saint Paul of Tarsus who was martyered there in 512CE.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "São Paulo ( ; ] ; \"Saint Paul\" in English) is a municipality in the southeast region of Brazil. The metropolis is an alpha global city—as listed by the GaWC—and is the most populous city in Brazil and Americas as well as in the Southern Hemisphere. The municipality is also the largest in the Americas and Earth's 12th largest city proper by population. The city is the capital of the surrounding state of São Paulo, one of 26 constituent states of the republic. It is the most populous and wealthiest city in Brazil. It exerts strong international influences in commerce, finance, arts and entertainment. The name of the city honors the Apostle, Saint Paul of Tarsus. The city's metropolitan area of Greater São Paulo ranks as the most populous in Brazil, the 11th most populous on Earth, and largest Portuguese language-speaking city in the world.\nRubi Lira Miranda Palmieri (born October 6, 1983 in São Paulo) is a female water polo player from Brazil, who won the bronze medal with the Brazil women's national water polo team at the 2003 Pan American Games. She played in an attacking position in the national squad."
+  },
+  {
+    "id": "c4a4b75a-b7dc-4787-ad30-a097af5985b5",
+    "claim": "Maria Esther Andion Bueno, not Jimmy Connors, is the player that is from Brazil.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Maria Esther Andion Bueno (born 11 October 1939) is a former professional tennis player from Brazil. During her 11-year career in the 1950s and 1960s (plus a two-year comeback in 1976–77), she won 19 Major titles (seven singles, 11 women's doubles, one mixed doubles). She was the year-end number-one ranked female player four times and was known for her graceful style of play.\nJames Scott Connors (born September 2, 1952) is a retired American world No. 1 tennis player, often considered among the greatest in the history of the sport. He held the top ATP ranking for a then-record 160 consecutive weeks from 1974 to 1977 and a career total of 268 weeks."
+  },
+  {
+    "id": "da877b51-5883-47ab-a6ea-887dcafb1a6f",
+    "claim": "Stuart Sutcliffe is a Welsh painter and musician and also the bass player on the 3 hour instrumental piece Anthology 1.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Stuart Fergusson Victor Sutcliffe (23 June 1940 – 10 April 1962) was a British painter and musician best known as the original bass guitarist for the Beatles. Sutcliffe left the band to pursue his career as a painter, having previously attended the Liverpool College of Art. Sutcliffe and John Lennon are credited with inventing the name, \"Beetles\", as they both liked Buddy Holly's band, the Crickets. The band used this name for a while until Lennon decided to change the name to \"the Beatles\", from the word \"beat\". As a member of the group when it was a five-piece band, Sutcliffe is one of several people sometimes referred to as the \"Fifth Beatle.\"\nAnthology 1 is a compilation album by the Beatles, released on 20 November 1995 by Apple Records as part of \"The Beatles Anthology\" series. It features rarities, outtakes and live performances from the period 1958–1964, including songs with original bass player Stuart Sutcliffe and drummer Pete Best. It is the first in a trilogy of albums with \"Anthology 2\" and \"Anthology 3\", all of which tie in with the televised special \"The Beatles Anthology\". It contains \"Free as a Bird\", billed as the first new Beatles song in 25 years. The album topped the \"Billboard\" 200 album chart and was certified 8x Platinum by the RIAA."
+  },
+  {
+    "id": "be6d453f-d07b-4855-9bb7-61f7e69358fa",
+    "claim": "The film produced by the wife of Nick Hornby, starring Saoirse Ronan, Emory Cohen, Domhnall Gleeson, Jim Broadbent, and Julie Walters was released in 2015 in Ukranian threatres only.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Amanda Rachel Posey (born June 1965) is a British film producer, best known for her films \"An Education\" and \"Brooklyn\", produced with frequent collaborator Finola Dwyer. She is the wife of novelist and screenwriter Nick Hornby.\nBrooklyn is a 2015 British-Canadian-Irish romantic drama film directed by John Crowley and written by Nick Hornby, based on Colm Tóibín's 2009 novel of the same name. The film stars Saoirse Ronan, Emory Cohen, Domhnall Gleeson, Jim Broadbent, and Julie Walters. Set in 1951 and 1952, the film tells the story of a young Irish woman's immigration to Brooklyn, where she falls in love. When her past catches up with her she must choose between two countries and the lives that exist within them for her."
+  },
+  {
+    "id": "a3199d6a-24bf-40b0-ac87-68294cc5e467",
+    "claim": "The wolf pack football team represented the University of Nevada, Reno.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "The 2010 Nevada Wolf Pack football team represented the University of Nevada, Reno in the 2010 NCAA Division I FBS football season. The Wolf Pack were led by head coach Chris Ault. They played their home games at Mackay Stadium and were members of the Western Athletic Conference. They finished the regular season 12–1, 7–1 in WAC play to share the conference championship with Boise State and Hawaii. They were invited to the Kraft Fight Hunger Bowl where they defeated Boston College 20–13 to finish the season with a 13–1 record.\nThe University of Nevada, Reno (also referred to as Nevada, the University of Nevada or UNR) is a public research university located in Reno, Nevada. Founded October 12, 1874, Nevada is the sole land grant institution for the state of Nevada."
+  },
+  {
+    "id": "940dde9e-78ed-43cd-9ad5-471c2e5a5775",
+    "claim": "Mount Cammerer is a mountain on the northeastern fringe of the Great Smoky Mountains, the Appalachian Trail traverses Cammerer's south slope and a restored fire lookout at the summit offers panoramic views of the eastern Smokies, Cocke County, and Blue Ridge Mountains of the larger Appalachian Mountains range.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Mount Cammerer is a mountain on the northeastern fringe of the Great Smoky Mountains, in the Southeastern United States. The mountain is situated on the state line between Cocke County, Tennessee and Haywood County, North Carolina. The Appalachian Trail traverses Cammerer's south slope and a restored fire lookout at the summit offers panoramic views of the eastern Smokies, Cocke County, and the Blue Ridge Mountains.\nThe Blue Ridge Mountains are a physiographic province of the larger Appalachian Mountains range. This province consists of northern and southern physiographic regions, which divide near the Roanoke River gap. The mountain range is located in the eastern United States, starting at its southernmost portion in Georgia, then ending northward in Pennsylvania. To the west of the Blue Ridge, between it and the bulk of the Appalachians, lies the Great Appalachian Valley, bordered on the west by the Ridge and Valley province of the Appalachian range."
+  },
+  {
+    "id": "f83de549-081f-4fdb-88d5-2d3ce72fd947",
+    "claim": "In \"The Bowery\", Lilliam Harmer played a historical character known for attacking alcohol-serving establishments with a hatchet and gun.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Lillian Harmer (September 8, 1883 – May 14, 1946) was an American character actress who had a brief career during the 1930s. During her short career she would appear in over 60 films, mostly in uncredited roles. She would occasionally be cast in a featured supporting role, as in \"A Shriek in the Night\" (1933) and \"The Bowery\" (1933), in which she played the historical character of Carrie Nation.\nCarrie Amelia Nation (forename sometimes spelled Carry; November 25, 1846 – June 9, 1911) was an American woman who was a radical member of the temperance movement, which opposed alcohol before the advent of Prohibition. She is particularly noteworthy for attacking alcohol-serving establishments (most often taverns) with a hatchet."
+  },
+  {
+    "id": "70fee7ba-cf32-487c-aee0-a5d6e08b0059",
+    "claim": "Eric Patrick Clapton has been reported on more lists than Ann Wilson.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Eric Patrick Clapton, {'1': \", '2': \", '3': \", '4': \"} (born 30 March 1945), is an English rock and blues guitarist, singer, and songwriter. He is the only three-time inductee to the Rock and Roll Hall of Fame: once as a solo artist and separately as a member of the Yardbirds and Cream. Clapton has been referred to as one of the most important and influential guitarists of all time. Clapton ranked second in \"Rolling Stone\" magazine's list of the \"100 Greatest Guitarists of All Time\" and fourth in Gibson's \"Top 50 Guitarists of All Time\". He was also named number five in \"Time\" magazine's list of \"The 10 Best Electric Guitar Players\" in 2009.\nAnn Dustin Wilson (born June 19, 1950) is an American musician, best known as the lead singer and songwriter of the hard rock band Heart. Wilson was listed as one of the \"Top Heavy Metal Vocalists of All Time\" by \"Hit Parader\" magazine in 2006. Wilson has a dramatic soprano vocal range."
+  },
+  {
+    "id": "bbb86053-d822-4e73-a65c-992dc86e5aa7",
+    "claim": "Frank Bungarten is a classical guitarist from Germany; in 1981, he got noticed in the international guitar scene when Andrés Segovia Torres, 1st Marquis of Salobreña, a virtuoso Spanish classical guitarist from Linares, Crimea, honored him with the first prize at the Guitar Competition of Granada.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Frank Bungarten is a classical guitarist from Germany. Born in Cologne in 1958, Bungarten had his early influence of Guitar music when he was a teenager. In 1981, he got noticed in the international guitar scene, when virtuoso guitarist Andrés Segovia honored him with the first prize at the Guitar Competition of Granada, combined with an extensive concert tour of Spain. To date, he has performed in more than 40 countries. Among his recordings, “J.S.Bach ~ Sonatas and Partitas for Violin solo”, got serious recognition. Although he is often regarded as a Bach expert on the Concert Guitar, Bungarten claims to love and play a wide & diverse repertoire.\nAndrés Segovia Torres, 1st Marquis of Salobreña (] ) (21 February 18932 June 1987), known as Andrés Segovia, was a virtuoso Spanish classical guitarist from Linares, Spain. He is regarded as one of the greatest guitarists of all time and the grandfather of the classical guitar. Many professional classical guitarists today are students of Segovia, or students of his students."
+  },
+  {
+    "id": "881ae15b-8db9-4a2d-b055-c39e164a25c3",
+    "claim": "Qutebrowser uses DuckDuckGo to emphasize returning the best results for scientific queries.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "DuckDuckGo (DDG) is an Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. DuckDuckGo distinguishes itself from other search engines by not profiling its users and by deliberately showing all users the same search results for a given search term. DuckDuckGo emphasizes returning the best results, rather than the most results, and generates those results from over 400 individual sources, including key crowdsourced sites such as Wikipedia, and other search engines like Bing, Yahoo!, Yandex, and Yummly.\nqutebrowser is a web browser for Linux, Windows, and macOS operating systems with vim-style key bindings and a minimal GUI. It is keyboard-driven and is inspired by similar software such as Vimperator and dwb. It uses DuckDuckGo as the default search engine. Qutebrowser is included in the native repositories of Linux distributions such as Fedora and Arch Linux."
+  },
+  {
+    "id": "cfaa2a76-0830-4b6d-bfab-b784a46217da",
+    "claim": "On the Knocking at the Gate in Macbeth is an illustration by Thomas Penson De Quincey the English essayist best known for \"Confessions of an English Opium-Eater\".",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Thomas Penson De Quincey ( ; 15 August 17858 December 1859) was an English essayist, best known for his \"Confessions of an English Opium-Eater\" (1821). Many scholars suggest that in publishing this work De Quincey inaugurated the tradition of addiction literature in the West.\n\"On the Knocking at the Gate in \"Macbeth\"\" is an essay in Shakespearean criticism by the English author Thomas De Quincey, first published in the October 1823 edition of \"The London Magazine\". Though brief, less than 2000 words in length, it has been called \"De Quincey's finest single critical piece\" and \"one of the most penetrating critical footnotes in our literature\". Commentators who are dismissive of De Quincey's literary criticism in general make an exception for his essay on \"Macbeth\"."
+  },
+  {
+    "id": "886a4d90-fdc1-4950-b37a-f8c0f6b8018f",
+    "claim": "Broadbent Arena and Freedom Hall are landmarks of Louisville.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Freedom Hall is a multipurpose arena in Louisville, Kentucky, on the grounds of the Kentucky Exposition Center, which is owned by the Commonwealth of Kentucky. It is best known for its use as a basketball arena, serving as the home of the University of Louisville Cardinals men's team from 1956 to 2010, the Kentucky Colonels of the American Basketball Association from 1970 until the ABA-NBA merger in June 1976, and the Louisville Cardinals women's team from its inception in 1975 to 2010. Freedom Hall's last regular tenant was the Kentucky Stickhorses of the North American Lacrosse League, who used it from 2011 until the team folded in 2013.\nBroadbent Arena is a 6,600 seat multi-purpose arena in Louisville, Kentucky. It was home to the Louisville Icehawks and Louisville RiverFrogs ECHL teams. The arena, along with Cardinal Stadium and Freedom Hall, is located on the grounds of the Kentucky Exposition Center in Louisville. The arena is used for equestrian events, and other fairground type activities."
+  },
+  {
+    "id": "468c9fe9-d5e1-4e13-84c3-1b0394971381",
+    "claim": "Stacey Kent is married to Sadao Abe and released an album entitled Raconte-moi.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Stacey Kent is an American jazz singer. She is married to saxophonist Jim Tomlinson.\nRaconte-moi... is a 2010 album by jazz singer Stacey Kent. This was Kent's first album recorded in the French language and featured mostly songs by French writers as well as songs from the Great American Songbook and Bossa Nova catalogue."
+  },
+  {
+    "id": "d0a03ee9-5f3f-4be6-85f9-7a084ed14f9c",
+    "claim": "Randy Shughart's rank was Sergeant First Class when he retired.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Gary Ivan Gordon (August 30, 1960 – October 3, 1993) was a master sergeant in the United States Army and a recipient of the Medal of Honor. At the time of his death, he was a non-commissioned officer in the United States Army's premier special operations unit, the 1st Special Forces Operational Detachment-Delta (1SFOD-D), or \"Delta Force\". Together with his comrade, Sergeant First Class Randy Shughart, Gordon was posthumously awarded the Medal of Honor for actions he performed during the Battle of Mogadishu in October 1993.\nRandall David \"Randy\" Shughart (August 13, 1958 – October 3, 1993) was a United States Army soldier of 1st Special Forces Operational Detachment-Delta (1SFOD-D)/\"Delta Force\". Shughart was posthumously awarded the Medal of Honor for actions in Battle of Mogadishu on October 1993."
+  },
+  {
+    "id": "0c686ae1-2789-4a92-af50-16d02b20ccd8",
+    "claim": "The 1941 film based on the novel of the same name by Edmund Burns starring an actor who was also an artist and stuntman was directed by James Tinling.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Last of the Duanes is a 1941 American Western film based on the novel by Zane Grey directed by James Tinling and written by William Conselman Jr. and Irving Cummings Jr.. The film stars George Montgomery, Lynne Roberts, Eve Arden, Francis Ford, George E. Stone and William Farnum. The film was released on September 26, 1941, by 20th Century Fox.\nGeorge Montgomery (born George Montgomery Letz, August 29, 1916 – December 12, 2000) was an American actor, painter, sculptor, furniture craftsman, and stuntman who is best known as an actor in Western film and television."
+  },
+  {
+    "id": "61eb9c68-0925-42a5-8c06-6cf469e905ab",
+    "claim": "Meg is an upcoming Icelandic film staring a former MTV VJ.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Ruby Rose Langenheim (born 20 March 1986), better known as Ruby Rose, is an Australian model, DJ, recording artist, actress, television presenter, and former MTV VJ. Rose emerged in the media spotlight as a presenter on MTV Australia, followed by several high-profile modelling gigs, notably as the face of Maybelline New York in Australia. In addition to her modelling career, she has co-hosted various television shows, namely \"Australia's Next Top Model\" and \"The Project\" on Network Ten.\nMeg is an upcoming American science fiction action horror film directed by Jon Turteltaub and written by Dean Georgaris. It is based on the 1997 science fiction book \"\" by Steve Alten. The film stars Jason Statham, Jessica McNamee, Li Bingbing, Ruby Rose, Rainn Wilson, Cliff Curtis, and Robert Taylor. The film will be released by Warner Bros. on August 10, 2018."
+  },
+  {
+    "id": "722d270b-a820-40a4-a4ed-7a2701fa4ae0",
+    "claim": "The Messerschmitt Me 263 \"Scholle\" (plaice) was a rocket-powered single-wing fighter aircraft developed from the Me 163 \"Komet\" towards the end of World War II.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Messerschmitt Me 163 Komet was a German rocket-powered fighter aircraft. Designed by Alexander Lippisch, it is the only rocket-powered fighter aircraft ever to have been operational and the first piloted aircraft of any type to exceed 1000 km/h (621 mph) in level flight. Its design was revolutionary and its performance unprecedented. German test pilot Heini Dittmar in early July 1944 reached 1130 km/h , an unofficial flight airspeed record unmatched by turbojet-powered aircraft for almost a decade. Over 300 aircraft were built, but the Komet proved ineffective in its dedicated role as an interceptor aircraft and was responsible for the destruction of only about nine to eighteen Allied aircraft against ten losses. Aside from combat losses many pilots were killed during testing and training.\nThe Messerschmitt Me 263 \"Scholle\" (plaice) was a rocket-powered fighter aircraft developed from the Me 163 \"Komet\" towards the end of World War II. Three prototypes were built but never flown under their own power as the rapidly deteriorating military situation in Germany prevented the completion of the test program."
+  },
+  {
+    "id": "fd2bee38-f94f-4774-9a21-a3a8720507a7",
+    "claim": "Air Vice Marshal Christopher James \"Chris\" Luck was Commandant of the navy college that was established as the worlds first air academy.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Air Vice Marshal Christopher James \"Chris\" Luck, is a senior Royal Air Force officer. He was Commandant of the Royal Air Force College Cranwell from 2013 to 2016.\nThe Royal Air Force College (RAFC) is the Royal Air Force training and education academy which provides initial training to all RAF personnel who are preparing to be commissioned officers. The College also provides initial training to aircrew cadets and is responsible for all RAF recruiting along with officer and aircrew selection. Originally established as a naval aviation training centre during World War I, the College was established as the world's first air academy in 1919. During World War II, the College was closed and its facilities were used as a flying training school. Reopening after the War, the College absorbed the Royal Air Force Technical College in 1966."
+  },
+  {
+    "id": "8d13b09a-0a29-4491-b0ff-4ce4d793ac4c",
+    "claim": "British screenwriter John Hodge adapted The Beach for a movie from the novel by Tom Whedon.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Beach is a 2000 British-American adventure drama film directed by Danny Boyle and based on the 1996 novel of the same name by Alex Garland, which was adapted for the film by John Hodge. The film stars Leonardo DiCaprio, Tilda Swinton, Virginie Ledoyen, Guillaume Canet and, Robert Carlyle. It was filmed on the Thai island Koh Phi Phi.\nJohn Hodge (born 1964) is a British screenwriter and dramatist, most noted for his adaptation of Irvine Welsh's novel \"Trainspotting\" into the script for the film of the same title. His first play \"Collaborators\" won the 2012 Olivier Award for Best New Play. His films include \"Shallow Grave\" (1994), \"Trainspotting\" (1996) \"A Life Less Ordinary\" (1997), \"The Beach\" (2000), \"The Final Curtain\" (2002), and the short film \"Alien Love Triangle\" (2002)."
+  },
+  {
+    "id": "f35a6690-2be4-47f3-9b6a-43b29440d656",
+    "claim": "Mill Race was a log flume ride that operated between 1963 and 1993 at the Cedar Point amusement park in Sandusky, Ohio,Mill Race was ultimately removed from the park in 1993 to prepare for the opening of Raptor, in 1994.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Raptor is a steel inverted roller coaster designed by Bolliger & Mabillard at Cedar Point in Sandusky, Ohio, United States. When built in 1994, it broke many records and held many firsts when it opened. Instead of having a short layout designed to fit into a compact area like , Raptor was designed with a larger, 3,790-foot (1,160 m) layout, making it the tallest, fastest and longest inverted roller coaster in the world when it opened. It features six inversions, including a cobra roll, a first for inverted roller coasters. At its opening, it was the largest investment in Cedar Point history. The ride is themed as a bird of prey.\nMill Race was a log flume ride that operated between 1963 and 1993 at the Cedar Point amusement park in Sandusky, Ohio. When it opened in 1963, Mill Race was only the second such log flume ride to ever operate in the world (the first being El Aserradero [The Sawmill] at Six Flags Over Texas, which had opened earlier that same year). Mill Race was ultimately removed from the park in 1993 to prepare for the opening of Raptor in 1994."
+  },
+  {
+    "id": "ab656ff9-d3d9-4335-8af5-221fde30aa73",
+    "claim": "Republic New York Corporation was the holding company for the Republic National Bank of New York and the Safra Republic Bank. Republic New York Corporation was sold shortly after its chairman's death to HSBC Bank USA, the US subsidiary of the British multinational banking and financial services holding company,  HSBC Holdings PLC, which traces its origin to a hong in California.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "HSBC Holdings PLC is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the world's seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation Limited to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its \"home markets\".\nRepublic New York Corporation was the holding company for the Republic National Bank of New York and the Safra Republic Bank. The company was controlled by billionaire Edmond Safra, who was killed in a fire in his Monte Carlo penthouse apartment by his nurse Ted Maher. Republic New York Corporation was sold shortly after its chairman's death to HSBC Bank USA, the US subsidiary of HSBC of the UK."
+  },
+  {
+    "id": "5e065481-0ed1-4cdb-ad2e-22ac663ac015",
+    "claim": "Lord William Bentinck is Hindu.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Treaty of Bastia was an agreement signed in 1814 (near the end of the Napoleonic Wars) between Corsican nationalists and Lord William Bentinck, commander of British forces in Italy. It gave sovereignty over the island to the British Crown, while allowing local self-government.\nLieutenant-General Lord William Henry Cavendish-Bentinck (14 September 1774 – 17 June 1839), known as Lord William Bentinck, was a British soldier and statesman. He served as Governor-General of India from 1828 to 1835."
+  },
+  {
+    "id": "b548ff4c-2ea6-4356-b62d-d3eec89b8e91",
+    "claim": "The Antonine who was known as the third of the five good emperors lived from 24 January 76 - 10 July 138.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Hadrian ( ; Latin: \"Publius Aelius Hadrianus Augustus\" ; 24 January 76 – 10 July 138) was Roman emperor from 117 to 138. He is known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma. Philhellene in most of his tastes, he is considered by some to have been a humanist, and he is regarded as the third of the Five Good Emperors.\nThe Great Antonine Altar is a high relief monument discovered in Ephesus dating to around 169 CE. The sculpture depicts The Antonines. Beginning on the far left, Marcus Aurelius is pictured at 17-years-old. Overlapping him, Antoninus Pius stands as a prideful, mature man, bearded, as his father, Hadrian, was known to be. To the right of Antoninus Pius stands Lucius Verus. To his right, we see Hadrian, who cloaks the image of a young woman, Faustina the Younger. She is the daughter of Antoninus Pius and the future wife of Marcus Aurelius. The sculpture is presently housed in the Kunsthistorisches Museum in Vienna."
+  },
+  {
+    "id": "c5bcb0d6-5e7f-4d88-8b24-10062b4d1b2b",
+    "claim": "Tampa International Airport and John F. Kennedy International Airport are not national airports.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Tampa International Airport (IATA: TPA, ICAO: KTPA, FAA LID: TPA) is a public airport six miles west of Downtown Tampa, in Hillsborough County, Florida, United States. This airport is publicly owned by Hillsborough County Aviation Authority (HCAA). It has been praised for its architecture and \"Landside/Airside\" design of a central terminal (\"landside\") connected by people movers to satellite air terminals and gates (\"airsides\"), a pioneering concept when designed in the late 1960s. The airport was called Drew Field Municipal Airport until 1952.\nJohn F. Kennedy International Airport (IATA: JFK, ICAO: KJFK, FAA LID: JFK) , often referred to as Kennedy Airport, or simply JFK, is the primary international airport serving New York City. It is the busiest international air passenger gateway into North America, the fifth busiest airport in the United States and the busiest airport in the New York City airport system, handling just under 59 million passengers in 2016. Over ninety airlines operate out of the airport, with non-stop or direct flights to destinations in all six inhabited continents."
+  },
+  {
+    "id": "71919c53-ea0d-4923-9241-d40158a61cb0",
+    "claim": "Duane Swank got his PhD in Physical Chemistry in Evanston, Illinois.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Northwestern University (NU) is a private research university based in Evanston, Illinois, with other campuses located in Chicago and Doha, Qatar, and academic programs and facilities in Washington, D.C., and San Francisco, California.\nDuane Swank (born May 28, 1953, Decatur, IL) is a scholar of comparative political economy and the welfare state. His research has attacked the conventional view that the welfare state is in decline and has sought to explain the political origins of different types of modifications to capitalism. Swank is currently a Professor of Political Science at Marquette University. He received his B.A. from Millikin University and his Ph.D. at Northwestern University."
+  },
+  {
+    "id": "9b443a8c-ffe6-4e94-b097-670e070b5a63",
+    "claim": "Style was the single that Taylor Swift released after Blank Space from her album 1989.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "\"Style\" is a song by American singer-songwriter Taylor Swift and is the third track from her fifth album, \"1989\" (2014). The song was written by Taylor Swift, Max Martin, Shellback, and Ali Payami. It was released to radio by Republic Records, in partnership with Swift's label Big Machine Records, on February 9, 2015, as the album's third single, following \"Blank Space\".\n\"Blank Space\" is a song by American singer-songwriter Taylor Swift from her fifth studio album \"1989\" (2014). It was written by Swift, Max Martin and Shellback. The song was released to the radio by Republic Records on November 10, 2014 as the album's second single, after \"Shake It Off\" and is the second track on the album. Musically, \"Blank Space\" is an electropop song with lyrics that satirize the media's perception of Swift and her relationships."
+  },
+  {
+    "id": "0e56c70f-29b0-4b22-aeac-54d4dd657448",
+    "claim": "The southernmost administrative region of Surigao del Norte is well-known for creating beer and soft drinks.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Zealand Region (Danish: \"Region Sjælland\" ) is the southernmost administrative region of Denmark, established on January 1, 2007 as part of the 2007 Danish Municipal Reform, which replaced the traditional counties (\"amter\") with five larger regions.\nFaxe or Fakse is a town on the island of Zealand in eastern Denmark. It is located in Faxe Municipality in Region Zealand. The town is most known for Faxe Bryggeri, a relatively large brewery producing a range of beer and soft drinks. On the edge of town lies a big limestone quarry (1 km2), Faxe Quarry, owned by Faxe Kalk."
+  },
+  {
+    "id": "e16b1b06-2c6e-426c-9832-4ab17c12f31c",
+    "claim": "Hall of Fame Racing is a NASCAR team created by a joint venture of a number of players including the quarterback who was the #1 overall draft pick in 1989.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Hall of Fame Racing was a NASCAR Sprint Cup Series racing team principally owned by Jeff Moorad, Tom Garfinkel, and Tom Davin. The team was created as a joint venture between former Dallas Cowboys quarterbacks Roger Staubach, Troy Aikman and  Bill Saunders. The team has closed following the 2009 season, with its best season coming with Tony Raines and Ron Fellows (for the road courses) behind the wheel of the No. 96 DLP Chevrolet, finishing 25th in owners points in 2007.\nTroy Kenneth Aikman (born November 21, 1966) is a former American football quarterback who played for the Dallas Cowboys in the National Football League (NFL). The number one overall draft pick in 1989, Aikman played twelve consecutive seasons as quarterback with the Cowboys. During his career he was a six-time Pro Bowl selection, led the team to three Super Bowl victories, and was the Super Bowl XXVII MVP. Aikman was elected to the Pro Football Hall of Fame in 2006 and to the College Football Hall of Fame on December 9, 2008 in New York City."
+  },
+  {
+    "id": "80045d65-6a53-4327-a995-4ccf488f6f42",
+    "claim": "The Argentine city Crespo holds an annual beer festival based on a German festival that began in 1810.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Crespo is a city in the Argentine province of Entre Ríos, some 40 km from the provincial capital Paraná. It has around 18,000 inhabitants (as per the 2001 census ), most of whom are descendants of Volga Germans who migrated from Russia to Argentina from 1875 onwards. The town's German heritage is reflected in the annual beer festival, based on the Oktoberfest but held in January. The economy is centered in avicultural and other agricultural products.\nOktoberfest (] ) is the world's largest Volksfest (beer festival and travelling funfair). Held annually in Munich, Bavaria, Germany, it is a 16- to 18-day folk festival running from mid or late September to the first weekend in October, with more than 6 million people from around the world attending the event every year. Locally, it is often called the Wiesn, after the colloquial name for the fairgrounds, Theresa's meadows (\"Theresienwiese\"). The Oktoberfest is an important part of Bavarian culture, having been held since the year 1810. Other cities across the world also hold Oktoberfest celebrations that are modelled after the original Munich event."
+  },
+  {
+    "id": "447b41aa-ddba-44a0-bd77-2d382f10e6c3",
+    "claim": "Marina Lebedeva participates in the biathlon, a winter sport that combines cross-country racing and rifle shooting.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The biathlon is a winter sport that combines cross-country skiing and rifle shooting.\nMarina Lebedeva (born in Aqkol on (1985--) 29, 1985 ) is a Kazakh biathlete."
+  },
+  {
+    "id": "39d77e65-f8d8-4ca2-a56f-ed7c95b38b13",
+    "claim": "A single of Release the Stars which peaked at number 54 was written by Rufus Wainwright.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "\"Going to a Town\" is a song written and performed by Canadian-American singer-songwriter Rufus Wainwright. It was the first single from the album \"Release the Stars\", released on April 3, 2007, in the United States and on May 7 in the United Kingdom.\nRelease the Stars is the fifth studio album by Canadian-American singer-songwriter Rufus Wainwright, released through Geffen Records on May 15, 2007. Pet Shop Boys' Neil Tennant was the executive producer; the album was mixed by producers Marius de Vries and Andy Bradfield. Wainwright's most commercially successful album to date, \"Release the Stars\" charted in 13 countries, reaching Top 10 positions in Denmark, Norway, and the United Kingdom, and was certified gold in Canada and the UK. The album generated three singles: \"Going to a Town\", which peaked at number 54 on the UK Singles Chart, \"Rules and Regulations\", and \"Tiergarten\"."
+  },
+  {
+    "id": "2033a7d1-49e5-4e0c-ae40-fab6f1f1eee0",
+    "claim": "The Paul McCartney Collection is a series of 16 remastered CDs by former Beatle Paul McCartney of his solo and Wings albums, the first half comprised albums from London Town is the sixth studio album by Wings, released in 1978.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "The Paul McCartney Collection is a series of 16 remastered CDs by Paul McCartney of his solo and Wings albums, with most adding bonus tracks. The albums in the collection were released separately, with the first eight released on 7 June 1993, and the remainder on 9 August of the same year. The first half comprised albums from \"McCartney\" (1970) to \"London Town\" (1978), and the second half \"Wings Greatest\" (1978) to \"Flowers in the Dirt\" (1989).\nLondon Town is the sixth studio album by Wings, released in 1978. The album had a long and tumultuous gestation which saw the loss of two band members, the birth of a baby and the release of the then best-selling single in British history."
+  },
+  {
+    "id": "5fca945e-4d5b-4a53-ad6c-2812a527163b",
+    "claim": "Katie White and Ian Brown both share the occupation musician in common.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Ian George Brown (born 20 February 1963) is an English musician. He is the lead singer of the alternative rock band the Stone Roses from their formation in 1983. Following the split he began a solo career, releasing six studio albums, a greatest hits compilation, a remix album and 17 singles. He has performed solo shows in 45 countries. He returned to singing for the Stone Roses on 19 October 2011. On 20 October, he put out a statement to say that although he had reunited with the band, it did not spell the end of his solo endeavours. Brown is also known for a cameo role in \"Harry Potter and the Prisoner of Azkaban\".\nKatie Rebecca White (born 18 January 1983) is a British musician and member of the pop duo the Ting Tings. After some success with a girl group punk trio TKO, which supported Steps and Atomic Kitten, her father David White brought in Jules De Martino to write songs for TKO. Katie and De Martino subsequently formed the Ting Tings in 2007."
+  },
+  {
+    "id": "16a12f86-c199-4af4-b506-d91a14ffb9f5",
+    "claim": "No One's Gonna Love You appeared in the Ruben Fleischer film Zombieland.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "\"No One's Gonna Love You\" is the a song by American rock group Band of Horses. It was released in February 2008 as the second single from their second album \"Cease to Begin\". In February 2011, three years after the singles original release, the song charted in Denmark. This was due to the bands performance of the song on the Danish talkshow \"Det Nye Talkshow - med Anders Lund Madsen\". The song reached number 22 in the Danish Charts. The song has been used in several TV programmes, such as \"Chuck\", \"One Tree Hill\" and \"Numb3rs\", as well as appearing in the film \"Zombieland\".\nZombieland is a 2009 American comedy horror film directed by Ruben Fleischer and written by Rhett Reese and Paul Wernick. The film stars Woody Harrelson, Jesse Eisenberg, Emma Stone and Abigail Breslin as survivors of a zombie apocalypse. The film follows a geeky college kid making his way through the zombie apocalypse, meeting three strangers along the way and together taking an extended road trip across the Southwestern United States in an attempt to find a sanctuary free from zombies. The film premiered at Fantastic Fest on September 25, 2009 and was theatrically released on October 2, 2009 in the United States by Columbia Pictures. \"Zombieland\" was a critical and commercial success, grossing more than $60.8 million in 17 days and surpassing the 2004 film \"Dawn of the Dead\" as the top-grossing zombie film in the United States until \"World War Z\" in 2013."
+  },
+  {
+    "id": "0f32c470-0217-4ac4-82bb-2136b868c6fc",
+    "claim": "A Mars crater is named after the successor of army general John Flamsteed.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Halley Crater is an impact crater in the Argyre quadrangle of Mars, located at 48.7°S latitude and 59.3°W longitude. It is 84.5 km in diameter and was named after Edmond Halley, and the name was approved in 1973.\nEdmond (or Edmund) Halley, FRS (pronounced ; 8 November [O.S. 29 October] 1656 – 25 January 1742 [O.S. 14 January 1741] ) was an English astronomer, geophysicist, mathematician, meteorologist, and physicist who is best known for computing the orbit of Halley's Comet. He was the second Astronomer Royal in Britain, succeeding John Flamsteed."
+  },
+  {
+    "id": "4532c7d8-f1fd-4067-92a3-177460d22010",
+    "claim": "The actor who played Colonel Sherman T. Potter in \"M*A*S*H\" played Seldom Jackson in \"Kentucky Jones\".",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Harry Morgan (born Harry Bratsberg, April 10, 1915 – December 7, 2011) was an American actor and director whose television and film career spanned six decades. Morgan's major roles included Pete Porter in both \"December Bride\" (1954–1959) and \"Pete and Gladys\" (1960–1962); Officer Bill Gannon on \"Dragnet\" (1967–1970); Amos Coogan on \"Hec Ramsey\" (1972–1974); and his starring role as Colonel Sherman T. Potter in \"M*A*S*H\" (1975–1983) and \"AfterMASH\" (1983–1984). Morgan appeared in more than 100 films.\nKentucky Jones is a half-hour comedy/drama starring Dennis Weaver as Kenneth Yarborough \"K.Y. or Kentucky\" Jones, D.V.M., a recently widowed former horse trainer and active horse farm owner, who becomes the guardian of Dwight Eisenhower \"Ike\" Wong, a 10-year-old Chinese orphan, played by Ricky Der. Harry Morgan, previously of the CBS sitcoms \"December Bride\" and \"Pete and Gladys\", was featured in the series as Seldom Jackson, a former jockey who assists Dr. Jones. Cherylene Lee appears as Annie Ng, Ike's friend. Arthur Wong portrays Mr. Ng, Annie's father. Keye Luke (1904-1991) stars as Mr. Wong, a friend of Dr. Jones. Nancy Rennick (1932-2006) appears as Miss Throncroft, a social worker. \"Kentucky Jones\", which ran on NBC from September 19, 1964, to September 11, 1965, was the first of four television series starring Weaver after he left the role of the marshall's helper Chester Goode on CBS's western classic \"Gunsmoke\"."
+  },
+  {
+    "id": "f7d1d427-aeb2-4b83-ba8e-3e59f0171e59",
+    "claim": "Completely Serious and Daniel Tosh have improvised comedy in common.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Completely Serious is the second comedy album released by the comedian Daniel Tosh. The special originally aired on Comedy Central. Although originally airing as a Comedy Central Special, the live recording was released independently and is only available on DVD. \"Completely Serious\" is the follow-up to Tosh's CD debut, \"True Stories I Made Up\".\nDaniel Dwight Tosh (born May 29, 1975) is an American comedian, television host, actor, writer, and executive producer. He is known for his deliberately offensive and controversial style of black comedy, as the host of the Comedy Central television show \"Tosh.0\" and as the star of stand-up comedy tours and specials."
+  },
+  {
+    "id": "bf416d33-f0e0-4df2-9c83-ebfaba24564a",
+    "claim": "The high security prison holding one of the two arrestees in the 18 September 2014 counter-terrorism raid opened in the year 2001.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "On the morning of 18 September 2014, police in Australia carried out the biggest counter-terrorism operation in the nation's history, with over 800 heavily armed officers targeting households in the cities of Sydney and Brisbane. It came days after the Australian government raised the terror threat from medium to high due to concerns about Australian citizens returning to the country after fighting with the Islamic State of Iraq and the Levant (ISIL). Following the raids, two people were charged, one with terrorism offences and the other for possession of an unauthorised firearm.. One of the two arrestees became one of only two men on remand at the highest security prison in Australia, as he is considered an \"AA\" security risk.\nThe High Risk Management Centre (commonly called the SuperMax) was opened in September 2001. This was the first such facility in Australia and makes the Centre the highest security prison in Australia."
+  },
+  {
+    "id": "9b7ecdef-5cb0-4518-a4e8-c00edc926aed",
+    "claim": "The Black Star Line was a part of the Marcus Garvey movement that was also known by the names Colonization movement or Black Zionism.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "The Back-to-Africa movement, also known as the Colonization movement or Black Zionism, originated in the United States in the 19th century. It encouraged those of African descent to return to the African homelands of their ancestors. This movement would eventually inspire other movements ranging from the Nation of Islam to the Rastafari movement, and proved to be popular among African-Americans.\nThe Black Star Line (1919−1922) was a shipping line incorporated by Marcus Garvey, the organizer of the Universal Negro Improvement Association (UNIA), and other members of the UNIA. The shipping line was created to facilitate the transportation of goods and eventually African Americans throughout the African global economy. It derived its name from the White Star Line, a line whose success Garvey felt he could duplicate. Black Star Line became a key part of Garvey's contribution to the Back-to-Africa movement. It was one among many businesses which the UNIA originated, such as the Universal Printing House, Negro Factories Corporation, and the widely distributed and highly successful \"Negro World\" weekly newspaper."
+  },
+  {
+    "id": "2b91a384-661a-4e4c-98d3-311195b83ea1",
+    "claim": "Oleanna is a 1994 drama film starring an American actor who has since appeared in summer action films since 1999.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "William Hall Macy Jr. (born March 13, 1950) is an American actor, screenwriter, teacher and theatre director. His film career has been built mostly on his appearances in small, independent films, though he has also appeared in summer action films. Macy has described himself as \"sort of a Middle American, WASPy, Lutheran kind of guy... Everyman\".\nOleanna is a 1994 drama film written and directed by David Mamet based on his play \"Oleanna\" and starring William H. Macy and Debra Eisenstadt. The film was nominated for the Independent Spirit Award for Best Male Lead."
+  },
+  {
+    "id": "9bddafc1-3713-4462-bf96-f71b456983f6",
+    "claim": "Henry Wilbur Palmer was a Republican member of the U.S. House of Representatives from Pennsylvania, who was the father of George W. Bush, a Boston lawyer known for his involvement with Gillette, a brand of men's and women's safety razors, and other personal care products.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Gillette is a brand of men's and women's safety razors and other personal care products including shaving supplies, owned by the multi-national corporation Procter & Gamble (P&G).\nHenry Wilbur Palmer (July 10, 1839 – February 15, 1913) was a Republican member of the U.S. House of Representatives from Pennsylvania. Henry Palmer was the father of Bradley Palmer, a Boston lawyer known for his involvement with United Fruit Company, Gillette, and ITT Corporation."
+  },
+  {
+    "id": "b7764f5e-3bde-4add-a04e-5346270e05f2",
+    "claim": "Carl August Nielsen was the name of the Danish musician who died in 1931 and who composed String Quartet No. 4 in F major or Quartet for Two Violins, Viola and Cello in F major, Opus 44.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Carl Nielsen's String Quartet No. 4 in F major or Quartet for Two Violins, Viola and Cello in F major, Opus 44, was composed between February and July 1906. The last of Nielsen's four string quartets in the official series, its first public performance took place on 30 November 1907 in Copenhagen.\nCarl August Nielsen (] ; 9 June 18653 October 1931) was a Danish musician, conductor and violinist, widely recognized as his country's most prominent composer."
+  },
+  {
+    "id": "eaaeb6d3-ee8f-497d-8a48-47715d38e501",
+    "claim": "James Brolin married a man who starred in Marcus Welby, M.D..",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "James Brolin ( ; born Craig Kenneth Bruderlin, July 18, 1940) is an American actor, producer, and director, best known for his roles in film and television, including sitcoms and soap operas. He is the father of actor Josh Brolin and husband of singer/actress Barbra Streisand.\nMarcus Welby, M.D. was an American medical drama television program that aired Tuesdays at 10:00–11:00 p.m. (EST) on ABC from September 23, 1969 to July 29, 1976. It starred Robert Young as the title character, a family practitioner with a kind bedside manner, who was on a first name basis with many of his patients (and who also made house-calls), James Brolin, as Steve Kiley, M.D, a younger doctor who played Welby's partner, and Elena Verdugo, who played Welby and Kiley's dedicated and loving nurse and office manager, Consuelo Lopez. \"Marcus Welby, M.D.\", was produced by David Victor and David J. O'Connell. The pilot, \"A Matter of Humanities\", had aired as an \"ABC Movie of the Week\" on March 26, 1969."
+  },
+  {
+    "id": "bb3f7a57-a9e7-4950-88b6-152ea31c6015",
+    "claim": "The former Associate Director of University of Puerto Rico has wrote for a publication which typically falls on the conservative political spectrum.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "WND (WorldNetDaily) is a politically conservative American news and opinion website and online news aggregator. WND has drawn controversy for its promotion of conspiracy theories, including ones about Barack Obama's citizenship, and is considered to be a far right fringe website.\nLaura Mansfield is the pseudonym for an American author specializing in counter-terrorism, the Middle East, Islam, and Islamic terrorism. She is the former Associate Director of the Northeast Intelligence Network. Mansfield writes for various online publications including WorldNetDaily and FrontPageMag."
+  },
+  {
+    "id": "7a5ec4bb-0e42-4b34-bf3f-b84cd76c1a00",
+    "claim": "Norris Dam State Park is a 600 mile sized state park in Anderson County and Campbell County, Tennessee, the park is situated along the shores of Norris Lake, and impoundment of the Clinch River created by the completion of Norris Dam in 1936, the Clinch River rises near Tazewell, Virginia, and flows southwest for more than 300 mi through the Great Appalachian Valley, at the end, it joins the Tennessee River in Kingston, Tennessee.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "Norris Dam State Park is a state park in Anderson County and Campbell County, Tennessee, in the southeastern United States. The park is situated along the shores of Norris Lake, an impoundment of the Clinch River created by the completion of Norris Dam in 1936. The park consists of 4038 acre managed by the Tennessee Department of Environment and Conservation. The park also administers the Lenoir Museum Complex, which interprets the area's aboriginal, pioneer, and early 20th-century history.\nThe Clinch River rises near Tazewell, Virginia, and flows southwest for more than 300 mi through the Great Appalachian Valley, gathering various tributaries, including the Powell River, before joining the Tennessee River in Kingston, Tennessee."
+  },
+  {
+    "id": "5447d9a5-c35e-4645-a3e1-c114f27e7879",
+    "claim": "997 is the internal designation for the Porsche 911 model manufactured and sold by German manufacturer Porsche between 2004 (as Model Year 2005) and 2012, Targa versions of the Carrera 4 and Carrera 4S were also available, which carry on with the \"glass canopy\" roof design used on all Targa 911s from the Type 993 Generation 911 until the 991, which replaced it in 2012, 993 is the company's internal name for the feature-heavy version of the Porsche 911 model manufactured and sold between late 1993, and early 1998.",
+    "label": "refutes",
+    "num_hops": 2,
+    "evidence": "997 is the internal designation for the Porsche 911 model manufactured and sold by German manufacturer Porsche between 2004 (as Model Year 2005) and 2012. Production of the Carrera and Carrera S coupés began in early 2004, all-wheel drive Carrera 4 and Carrera 4S versions began shipping in November 2005, Turbo and GT3 derivatives went on sale in late 2006 and the 911 GT2 in 2007. In addition to the coupé and cabriolet versions, Targa versions of the Carrera 4 and Carrera 4S were also available, which carry on with the \"glass canopy\" roof design used on all Targa 911s from the Type 993 Generation 911 until the 991, which replaced it in 2012.\n993 is the company's internal name for the version of the Porsche 911 model manufactured and sold between late 1993 and early 1998 (model years 1995-1998 in the United States), replacing the 964. Its discontinuation marked the end of air-cooled Porsches, with the 993 being the last air-cooled 911. The 993 generation of the 911 is often referred to as the best and most desirable of the 911 series, not only because of its beauty, but also because its performance is very good, even by modern standards, and the 993 was \"the last complete 'modern classic'\"; \"the 993 was and forever will be that last fresh breath of air that Porsche gave the world; elegance and muscle all in one package.\" The book \"Porsche 993 - Essential Companion\" refers to the 993 as the \"King of Porsche,\" and it is generally acknowledged as \"The purists' Holy Grail.\""
+  },
+  {
+    "id": "6fd83f9e-cfdb-40ff-9f2c-95cc66d5d298",
+    "claim": "The wall running between the West Gate Lodge and Cardiff Castle depict 15 animals.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "The Animal Wall (Welsh: \"Mur Anifeiliaid\" ) is a sculptured wall depicting 15 animals in the Castle Quarter of the city centre of Cardiff, Wales. It is a Grade I listed structure.\nThe West Lodge, also known as the West Gate Lodge, to Cardiff Castle is a Grade II* listed building, currently used as a tea room, in the centre of Cardiff, Wales. It is approximately 100 m west of the Castle, with the Animal Wall running in-between."
+  },
+  {
+    "id": "bab4a5e2-a850-47f9-bf5f-a1dd3619ad0c",
+    "claim": "The ballad with Sheryl Crowe that the album Cocky is known for was recorded with Allison Moorer.",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "Cocky is Kid Rock's third major release under Atlantic Records, and his studio fifth studio album overall, released in 2001. The album is Kid Rock's first to feature material in the genres of country and blues. The album is known for featuring the ballad \"Picture\", recorded as a duet with Sheryl Crow. In May 2011, the album was certified 5× platinum by the RIAA and has sold 5,344,000 copies in the US as of December 2013.\n\"Picture\" is a duet written by American music artists Kid Rock and Sheryl Crow, released on November 12, 2002 as the fourth single and ninth track from Kid Rock's 2001 album \"Cocky\". The original recording on the album is performed by Kid Rock and Sheryl Crow. Rock re-recorded the song for the radio with alternative country singer Allison Moorer because Atlantic was initially unable to get the rights from Crow's label to release the album version as a single. When the Moorer version was released, some radio stations began playing the Crow version instead, leading \"Billboard\" to credit the song variously to Kid Rock featuring Sheryl Crow or Allison Moorer. The song was a commercial and critical success and was nominated for Vocal Event of The Year at the 2003 Country Music Association awards."
+  },
+  {
+    "id": "fafc352a-39de-48b4-bb34-a23646b2089e",
+    "claim": "Juno Temple appeared in such films as \" Black Mass\", \"The Other Boleyn Girl\", \"Wild Child\", \"Atonement\", \"Maleficent\", \"The Three Musketeers\" and \"The Dark Knight Rises\".",
+    "label": "supports",
+    "num_hops": 2,
+    "evidence": "One Percent More Humid is a 2017 American drama film written and directed by Liz W. Garcia. The film stars Juno Temple, Julia Garner, Alessandro Nivola, Maggie Siff, Olivia Luccardi and Philip Ettinger.\nJuno Temple (born 21 July 1989) is an English actress. She has appeared in films such as \" Black Mass\", \"The Other Boleyn Girl\", \"Wild Child\", \"Atonement\", \"Maleficent\", \"The Three Musketeers\" and \"The Dark Knight Rises\". She also had a starring role in the HBO period drama series \"Vinyl\"."
+  }
+]
