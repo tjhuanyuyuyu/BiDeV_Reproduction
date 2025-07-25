@@ -14,12 +14,43 @@ class Rewriter:
             "- The original claim that may contain latent information.\n"
             "- A clarifying question identifying one latent information of the claim.\n"
             "- A precise answer that resolves this latent information.\n\n"
-            "Step-by-step, please:\n"
-            "0. If the question does not contain unresolved entities and undetermined attributes, leave the original sentence unchanged.\n"
-            "1. Identify which part(s) of the claim are directly or indirectly related to the question.\n"
-            "2. Replace or update that part using the answer in a coherent, explicit, and fluent way.\n"
-            "3. Do not alter the original meaning of the claim; preserve its original intent while adding the missing information.\n\n"
-            "Write only the final revised claim.Do not \n\n"
+            "Your rewriting task follows strict rules:\n"
+            "1. If the question is 'no question' or the answer is 'no answer', do not modify the claim. Just output the original claim as-is.\n"
+            "2. Otherwise, identify the specific part of the claim that corresponds to the unresolved entity or undetermined attribute mentioned in the question.\n"
+            "3. Replace or update that part with the given answer in a coherent, explicit, and fluent way.\n"
+            "4. Do not change or rephrase any other parts of the claim. Do not add new content, new sentences, or new entities.\n"
+            "5. Your final output must be a new version of the original claim, modified only in the relevant part, with sentence structure and meaning completely preserved.\n\n"
+            "Examples:\n"
+            "Example 1:\n"
+            "Claim: The former president of Peru, who took office in 2022, was removed from power.\n"
+            "Question: Who was the president of Peru in 2022?\n"
+            "Answer: Pedro Castillo\n"
+            "Rewritten Claim: Pedro Castillo, the former president of Peru who took office in 2022, was removed from power.\n\n"
+            "Example 2:\n"
+            "Claim: The 2023 Nobel Prize in Literature was awarded to a French author known for their autofictional style.\n"
+            "Question: Who won the 2023 Nobel Prize in Literature?\n"
+            "Answer: Jon Fosse\n"
+            "Rewritten Claim: The 2023 Nobel Prize in Literature was awarded to Jon Fosse, a French author known for their autofictional style.\n\n"
+            "Example 3:\n"
+            "Claim: The peace treaty signed in 1979 ended decades of conflict between Egypt and a neighboring country.\n"
+            "Question: Which neighboring country did Egypt sign the peace treaty with in 1979?\n"
+            "Answer: Israel\n"
+            "Rewritten Claim: The peace treaty signed in 1979 ended decades of conflict between Egypt and Israel.\n\n"
+            "Example 4:\n"
+            "Claim: The song recorded by Fergie that was produced by Polow da Don and was followed by Life Goes On was M.I.L.F.\n"
+            "Question: no question.\n"
+            "Answer: no answer.\n"
+            "Rewritten Claim: The song recorded by Fergie that was produced by Polow da Don and was followed by Life Goes On was M.I.L.F.\n\n"
+            "Example 5 :\n"
+            "Claim: The writer of the novel Horizon is American. She ywas younger than the author of Dubin's Lives.\n"
+            "Question: Who is the writer of the novel Horizon?\n"
+            "Answer: Lois McMaster Bujold.\n"
+            "Rewritten Claim: Lois McMaster Bujold is American. She ywas younger than the author of Dubin's Lives.\n\n"
+            "Example 6 :\n"
+            "Claim: Substorm was described in qualitative terms by a scientist nominated for Nobel Prize seven times.\n"
+            "Question:Who is the scientist nominated for Nobel Prize seven times?\n"
+            "Answer: Kristian Birkeland.\n"
+            "Rewritten Claim: Substorm was described in qualitative terms by Kristian Birkeland ，a scientist who was nominated for Nobel Prize seven times.\n\n"
             f"Claim: {claim}\n"
             f"Question: {question}\n"
             f"Answer: {answer}\n"
@@ -27,18 +58,3 @@ class Rewriter:
         )
         return self.llm.chat("", prompt)
 
-# “您是一位专业的改写代理。\n”
-# “您的目标是利用外部背景知识修改一项复杂的权利要求。\n”
-# “您将获得：\n”
-# “- 可能包含潜在信息的原始权利要求。\n”
-# “- 一个澄清问题，用于识别权利要求中的一个潜在信息。\n”
-# “- 一个能够解决该潜在信息的精确答案。\n\n”
-# “请分步说明：\n”
-# “1. 确定权利要求中哪些部分与问题直接或间接相关。\n”
-# “2. 使用答案，以连贯、明确和流畅的方式替换或更新该部分。\n”
-# “3. 不要改变权利要求的原始含义；在添加缺失信息的同时保留其原始意图。\n\n”
-# “只写最终修改后的权利要求。\n\n”
-# f“权利要求：{claim}\n”
-# f“问题：{question}\n”
-# f“答案：{answer}\n”
-# “改写的权利要求：”
