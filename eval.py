@@ -13,7 +13,7 @@ def save_sampled_data(sampled_data, output_path="sample_100.json"):
     print(f"\n已保存随机采样的 100 条数据到 {output_path}")
 
 def main():
-    json_file = "data/feverous-s-dev.json"  # 修改路径
+    json_file = "data/2hop.json"  # 修改路径
     data = load_data(json_file)
 
     sample_size = 100
@@ -24,9 +24,10 @@ def main():
         sampled_data = random.sample(data, sample_size)
 
     # 保存采样后的数据
-    save_sampled_data(sampled_data, output_path="data/sample-fs_100.json")
+    # save_sampled_data(sampled_data, output_path="data/sample-fs_100.json")
+    txt_file = "data/hover_evidence_corpus.txt"
 
-    bidev = BiDeV(wiki_dir="unused/path", n_iter=3)  # gold 模式不需要真正的wiki_dir
+    bidev = BiDeV(wiki_dir=txt_file, n_iter=3)  # gold 模式不需要真正的wiki_dir
 
     total = 0
     correct = 0

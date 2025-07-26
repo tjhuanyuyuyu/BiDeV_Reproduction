@@ -6,6 +6,7 @@ from bidev.modules.rewriter   import Rewriter
 from bidev.modules.decomposer import Decomposer
 from bidev.modules.checker    import Checker
 from bidev.modules.filter     import Filter
+from bidev.retriever          import BM25Retriever
 
 class BiDeV:
     def __init__(self, wiki_dir: str, n_iter: int = 3):
@@ -16,14 +17,15 @@ class BiDeV:
         self.decom  = Decomposer()
         self.check  = Checker()
         self.filt   = Filter()
+        self.retr   = BM25Retriever(wiki_dir)
         self.n_iter = n_iter
 
     def run(self, raw_claim: str, gold_evidences: List[str] = None) -> str:
         claim = raw_claim
 
         #如果是字符串(gold setting下)，就转成单元素列表
-        if isinstance(gold_evidences, str):
-            gold_evidences = [gold_evidences]
+        # if isinstance(gold_evidences, str):
+        #     gold_evidences = [gold_evidences]
 
 
         # ============= Stage 1: Perceive then Rewrite =============
@@ -39,15 +41,26 @@ class BiDeV:
             q = self.perc.detect_latent(claim)
             print(f"感知问题 q{i}：{q}")
 
-            # Step 2: 用过滤器筛选证据
-            filtered = self.filt.filter_paragraphs(gold_evidences, q)  # 即 e_i* ，gold_evidences是列表格式
-
-            # Step 3: 用 question 和 e_i* 生成答案
-            ans = self.quer.answer(q, filtered)
-            print(f"回答 a{i}：{ans}")
+            if gold_evidences is None:
+                q_evidences = self.retr.query(q, k=10)
+                print("query Open!")
+            else :
+                q_evidences = gold_evidences
+                print("query Gold!")
             
-            claim = self.rew.rewrite(claim, q, ans)
-            print(f"第 {i} 次改写后 claim：{claim}")
+            if q == "no question":
+                print(f"回答 a{i}：{"no answer"}")
+                print(f"第 {i} 次改写后 claim：{claim}")
+            else:
+                # Step 2: 用过滤器筛选证据
+                filtered = self.filt.filter_paragraphs(q_evidences, q)  # 即 e_i* ，gold_evidences是列表格式
+
+                # Step 3: 用 question 和 e_i* 生成答案
+                ans = self.quer.answer(q, filtered)
+                print(f"回答 a{i}：{ans}")
+                
+                claim = self.rew.rewrite(claim, q, ans)
+                print(f"第 {i} 次改写后 claim：{claim}")
 
 
         # ============= Stage 2: Decompose then Check ==============
@@ -58,12 +71,14 @@ class BiDeV:
 
         verdicts = []
         for sc in sub_claims:
-            if gold_evidences is not None:
-                ev = self.filt.filter_paragraphs(gold_evidences, sc)
+            if gold_evidences is None:
+                sc_evidences = self.retr.query(sc, k=10)
+                filtered_ev = self.filt.filter_paragraphs(sc_evidences, sc)
+                print("check Open!")
             else:
-                raw_evidence = self.quer.retr.query(sc, k=5)
-                ev = self.filt.filter_paragraphs(raw_evidence, sc)
-            result = self.check.verify(sc, ev)
+                filtered_ev = self.filt.filter_paragraphs(gold_evidences, sc)
+                print("check Gold!")
+            result = self.check.verify(sc, filtered_ev)
             print(f"子句判断结果：{result}")
             verdicts.append(result.strip().lower())
 
