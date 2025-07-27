@@ -16,6 +16,8 @@ class Checker:
             "Please check carefully and output only one of the following labels:\n"
             "- Support: if the evidence confirms that the claim is correct.\n"
             "- Refute: if the evidence shows the claim is false.\n\n"
+            "Note: The evidence may not directly state the truth value of the claim — you may need to perform some reasoning.\n"
+            "Note: In some cases, even a single word more or less can change the meaning of the claim. Please evaluate carefully.\n\n"
             "Do not output explanation.\n"
             "Your answer (Support or Refute):"
         )

@@ -8,13 +8,13 @@ def load_data(json_path):
     return data
 
 
+
 def main():
-    json_file = "data/sample4_100.json"
+    json_file = "data/sample2_100.json"  # 修改路径
     sampled_data = load_data(json_file)
 
-    # 证据库路径
+
     txt_file = "data/hover_evidence_corpus.txt"
-    # txt_file = "data/feverous_s_evidence_corpus.txt"
 
     bidev = BiDeV(wiki_dir=txt_file, n_iter=3)  
 
@@ -23,11 +23,11 @@ def main():
 
     for item in sampled_data:
         claim = item["claim"]
-        # gold_evidence = [item["evidence"]] if isinstance(item["evidence"], str) else item["evidence"]
+        gold_evidence = [item["evidence"]] if isinstance(item["evidence"], str) else item["evidence"]
         true_label = item["label"].strip().lower()
 
         print(f"\n[#{total + 1}] Claim: {claim}")
-        result = bidev.run(claim) # 没有gold_evidence
+        result = bidev.run(claim, gold_evidences=gold_evidence)
         print("  → Predicted:", result)
         print("  → Ground Truth:", true_label)
 
@@ -36,7 +36,7 @@ def main():
         total += 1
 
     accuracy = correct / total if total > 0 else 0
-    print("\n=========Open Setting EVALUATION SUMMARY =========")
+    print("\n=========EVALUATION SUMMARY =========")
     print(f"Total samples: {total}")
     print(f"Correct predictions: {correct}")
     print(f"Accuracy: {accuracy:.2%}")

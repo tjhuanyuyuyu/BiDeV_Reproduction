@@ -1,4 +1,5 @@
 # modules/rewriter.py
+from typing import List
 from bidev.llm_wrappers import DashScopeClient
 
 class Rewriter:
@@ -61,5 +62,26 @@ class Rewriter:
             f"Answer: {answer}\n"
             "Rewritten Claim:"
         )
+
+        return self.llm.chat("", prompt)
+
+    def only_rewrite(self, claim: str, evidences: List[str]) -> str:
+        prompt = (
+            "You are a professional rewriting expert.\n"
+            "Your goal is to revise a complex claim using relevant external background knowledge.\n"
+            "You are given:\n"
+            "- An original claim that may contain latent information.\n"
+            "- A piece of supporting evidence that helps clarify the unparsed entity or undetermined attribute in the claim.\n\n"
+            "Your rewriting task follows strict rules:\n"
+            "1. If the evidence does not provide any new or clarifying information relevant to the claim, do NOT rewrite the claim. Simply return the original claim as is.\n"
+            "2. Otherwise, identify the specific part of the claim that corresponds to the unparsed entity or undetermined attribute clarified by the evidence.\n"
+            "3. Replace or update that part using the information from the evidence in a coherent, clear, and fluent manner.\n"
+            "4. Do NOT modify or rephrase any other part of the claim. Do NOT add any new content, new sentence, or new entity.\n"
+            "5. Your final output must be a new version of the original claim, modifying only the relevant part, and preserving the overall sentence structure and meaning.\n"
+            f"Claim: {claim}\n"
+            f"Evidence: {evidences}\n"
+            "Rewritten Claim:"
+        )
+
         return self.llm.chat("", prompt)
 

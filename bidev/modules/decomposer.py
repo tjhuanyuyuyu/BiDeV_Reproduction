@@ -44,15 +44,47 @@ class Decomposer:
 
         response = self.llm.chat("", prompt)
         return [line.strip() for line in response.split("\n") if line.strip()]
+    
 
-# 你是一名复杂事实性主张的分解代理。\n"
-# "你的任务是将给定的主张拆分为多个简短的事实性子主张。\n\n"
-# "输入主张可能包含：\n"
-# "- 指称关系（例如，“她”指代先前提到的实体）。\n"
-# "- 比较关系（例如，比较出生日期、身高或分数）。\n\n"
-# "请遵循以下步骤：\n"
-# "1. 用上下文中实际的明确实体替换任何模糊代词或指称。\n"
-# "2. 使用确定的属性将比较解析为独立的事实。\n"
-# "3. 将最终主张分解为逻辑上独立的简单陈述性子主张。\n\n"
-# f"主张：{主张}\n\n"
-# "将每个子主张另起一行输出：\n"
+    def no_rewrite_decompose(self, claim: str, q_ans: str) -> List[str]:
+        prompt = (
+            "You are a decomposition agent for complex factual claims.\n"
+            "Your task is to split the given claim into multiple short, factual sub-claims.\n"
+            "Then simplify the sub-claims using the information provided in q_ans.\n\n"
+            "The input claim may contain:\n"
+            "- Referential relations (e.g., 'she' refers to a previously mentioned entity).\n"
+            "- Comparative relations (e.g., comparing birth dates, heights, or scores).\n\n"
+            "Please follow these steps:\n"
+            "1. Replace any vague pronouns or references with the actual explicit entities in the original context if possible.\n"
+            "2. Resolve comparisons into independent facts using determined attributes.\n"
+            "3. Decompose the final claim into simple declarative sub-claims that are logically independent.\n"
+            "4. The combined meaning of all sub-claims should fully reconstruct the original claim.\n\n"
+            "Examples:\n"
+            "Example 1:\n"
+            "Claim: Lois McMaster Bujold is American. She was younger than Bernard Malamud borned in 1914.\n"
+            "Sub-claims:\n"
+            "Lois McMaster Bujold is American.\n"
+            "Lois McMaster Bujold was borned after 1914.\n"
+            "Bernard Malamud was borned in 1914.\n\n"
+            "Example 2:\n"
+            "Claim: Derek Stephen Prince, known as the voice of \"Elgar\", voices Keitarō Urashima, the English character in the Manga Love Hina inspired by Keitaro Arima.\n"
+            "Sub-claims:\n"
+            "Derek Stephen Prince is known as the voice of \"Elgar\".\n"
+            "Derek Stephen Prince voices Keitarō Urashima, an English character in the Manga Love Hina.\n"
+            "Keitarō Urashima was inspired by Keitaro Arima.\n\n"
+            "Example 3:\n"
+            "Claim: Mikhail Gromov is a permanent faculty member at the school of Mathematics, located in New Jersey, where Eric Stark Maskin was a teacher. This mathematician was one of the developers of Systolic geometry.\n"
+            "Sub-claims:\n"
+            "Mikhail Gromov is a permanent faculty member at the school of Mathematics, located in New Jersey.\n"
+            "Eric Stark Maskin was a teacher at the school of Mathematics in New Jersey.\n"
+            "Mikhail Gromov was one of the developers of Systolic geometry.\n\n"
+            "You are also given a string q_ans: str in the format \"Q: <question> A: <answer>\".\n"
+            "You may simplify or rewrite the sub-claims using the explicit knowledge in q_ans.If q_ans does not contain any useful information, simply output the sub-claims derived from the original claim without modification.\n\n"
+            f"Claim: {claim}\n\n"
+            f"q_ans：{q_ans}\n\n"
+            "Output each sub-claim on a new line:\n"
+        )
+
+        response = self.llm.chat("", prompt)
+        return [line.strip() for line in response.split("\n") if line.strip()]
+

@@ -23,10 +23,6 @@ class BiDeV:
     def run(self, raw_claim: str, gold_evidences: List[str] = None) -> str:
         claim = raw_claim
 
-        #如果是字符串(gold setting下)，就转成单元素列表
-        # if isinstance(gold_evidences, str):
-        #     gold_evidences = [gold_evidences]
-
 
         # ============= Stage 1: Perceive then Rewrite =============
         # for _ in range(self.n_iter):
@@ -43,28 +39,41 @@ class BiDeV:
 
             if gold_evidences is None:
                 q_evidences = self.retr.query(q, k=10)
-                print("query Open!")
             else :
                 q_evidences = gold_evidences
-                print("query Gold!")
+
+            q_ans = ""
             
             if q == "no question":
                 print(f"回答 a{i}：{"no answer"}")
                 print(f"第 {i} 次改写后 claim：{claim}")
             else:
                 # Step 2: 用过滤器筛选证据
-                filtered = self.filt.filter_paragraphs(q_evidences, q)  # 即 e_i* ，gold_evidences是列表格式
+                filtered = self.filt.filter_paragraphs(q_evidences, claim)  # 即 e_i* ，gold_evidences是列表格式
 
                 # Step 3: 用 question 和 e_i* 生成答案
                 ans = self.quer.answer(q, filtered)
                 print(f"回答 a{i}：{ans}")
-                
-                claim = self.rew.rewrite(claim, q, ans)
-                print(f"第 {i} 次改写后 claim：{claim}")
+
+                # rewriter消融
+                q_ans = f"Q: {q} A: {ans}"
+
+                # claim = self.rew.rewrite(claim, q, ans)
+                # print(f"第 {i} 次改写后 claim：{claim}")
+            
+            # perceptor消融
+            # claim = self.rew.only_rewrite(claim, filtered)
+            # print(f"第 {i} 次改写后 claim：{claim}")
 
 
         # ============= Stage 2: Decompose then Check ==============
-        sub_claims = self.decom.decompose(claim)
+        # sub_claims = self.decom.decompose(claim)
+        # print(f"拆解为 {len(sub_claims)} 个子句：")
+        # for i, sc in enumerate(sub_claims):
+        #     print(f"  子句 {i+1}: {sc}")
+
+        # rewriter消融
+        sub_claims = self.decom.no_rewrite_decompose(claim, q_ans)
         print(f"拆解为 {len(sub_claims)} 个子句：")
         for i, sc in enumerate(sub_claims):
             print(f"  子句 {i+1}: {sc}")
@@ -74,13 +83,18 @@ class BiDeV:
             if gold_evidences is None:
                 sc_evidences = self.retr.query(sc, k=10)
                 filtered_ev = self.filt.filter_paragraphs(sc_evidences, sc)
-                print("check Open!")
             else:
                 filtered_ev = self.filt.filter_paragraphs(gold_evidences, sc)
-                print("check Gold!")
             result = self.check.verify(sc, filtered_ev)
             print(f"子句判断结果：{result}")
             verdicts.append(result.strip().lower())
+
+        # decomposer消融
+        # filtered_ev = self.filt.filter_paragraphs(gold_evidences, claim)
+        # result = self.check.verify(claim, filtered_ev)
+        # print(f"子句判断结果：{result}")
+        # verdicts.append(result.strip().lower())
+
 
         # ========= Final Decision ==========
         if all(v == "support" for v in verdicts):
