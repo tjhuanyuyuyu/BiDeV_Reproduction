@@ -8,6 +8,8 @@
 pip install -r requirements.txt
 ```
 
+Apply for a LLM api key and fill in .env
+
 
 Use the following command to run the script:
 
