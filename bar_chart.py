@@ -51,9 +51,9 @@ import numpy as np
 datasets = ['Hover(2-hop)', 'Hover(3-hop)', 'Hover(4-hop)', 'Feverous-s']
 methods = ['BiDeV', 'w/o Mf', 'w/o Mp', 'w/o Mr', 'w/o Md']
 scores = [
-    [81, 83, 61, 81, 73],  # Hover(2-hop)
+    [81, 79, 61, 81, 73],  # Hover(2-hop)
     [75, 70, 58, 75, 65],  # Hover(3-hop)
-    [69, 72, 60, 70, 66],  # Hover(4-hop)
+    [69, 61, 60, 70, 66],  # Hover(4-hop)
     [93, 97, 85, 92, 94]   # Feverous-s
 ]
 colors = ['red', 'gold', 'deepskyblue', 'steelblue', 'lightseagreen']

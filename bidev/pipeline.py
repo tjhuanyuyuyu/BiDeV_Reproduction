@@ -42,17 +42,17 @@ class BiDeV:
             else :
                 q_evidences = gold_evidences
 
-            q_ans = ""
+            # q_ans = ""
             
             if q == "no question":
                 print(f"回答 a{i}：{"no answer"}")
                 print(f"第 {i} 次改写后 claim：{claim}")
             else:
                 # Step 2: 用过滤器筛选证据
-                # filtered = self.filt.filter_paragraphs(q_evidences, claim)  # 即 e_i* ，gold_evidences是列表格式
+                filtered = self.filt.filter_paragraphs(q_evidences, claim)  # 即 e_i* ，gold_evidences是列表格式
 
                 # Step 3: 用 question 和 e_i* 生成答案
-                ans = self.quer.answer(q, q_evidences)
+                ans = self.quer.answer(q, filtered)
                 print(f"回答 a{i}：{ans}")
 
                 # rewriter消融
@@ -85,7 +85,7 @@ class BiDeV:
                 filtered_ev = self.filt.filter_paragraphs(sc_evidences, sc)
             else:
                 filtered_ev = self.filt.filter_paragraphs(gold_evidences, sc)
-            result = self.check.verify(sc, gold_evidences)
+            result = self.check.verify(sc, filtered_ev)
             print(f"子句判断结果：{result}")
             verdicts.append(result.strip().lower())
 
