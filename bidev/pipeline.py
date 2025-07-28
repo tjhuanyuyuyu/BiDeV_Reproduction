@@ -49,17 +49,17 @@ class BiDeV:
                 print(f"第 {i} 次改写后 claim：{claim}")
             else:
                 # Step 2: 用过滤器筛选证据
-                filtered = self.filt.filter_paragraphs(q_evidences, claim)  # 即 e_i* ，gold_evidences是列表格式
+                # filtered = self.filt.filter_paragraphs(q_evidences, claim)  # 即 e_i* ，gold_evidences是列表格式
 
                 # Step 3: 用 question 和 e_i* 生成答案
-                ans = self.quer.answer(q, filtered)
+                ans = self.quer.answer(q, q_evidences)
                 print(f"回答 a{i}：{ans}")
 
                 # rewriter消融
-                q_ans = f"Q: {q} A: {ans}"
+                # q_ans = f"Q: {q} A: {ans}"
 
-                # claim = self.rew.rewrite(claim, q, ans)
-                # print(f"第 {i} 次改写后 claim：{claim}")
+                claim = self.rew.rewrite(claim, q, ans)
+                print(f"第 {i} 次改写后 claim：{claim}")
             
             # perceptor消融
             # claim = self.rew.only_rewrite(claim, filtered)
@@ -67,16 +67,16 @@ class BiDeV:
 
 
         # ============= Stage 2: Decompose then Check ==============
-        # sub_claims = self.decom.decompose(claim)
-        # print(f"拆解为 {len(sub_claims)} 个子句：")
-        # for i, sc in enumerate(sub_claims):
-        #     print(f"  子句 {i+1}: {sc}")
-
-        # rewriter消融
-        sub_claims = self.decom.no_rewrite_decompose(claim, q_ans)
+        sub_claims = self.decom.decompose(claim)
         print(f"拆解为 {len(sub_claims)} 个子句：")
         for i, sc in enumerate(sub_claims):
             print(f"  子句 {i+1}: {sc}")
+
+        # rewriter消融
+        # sub_claims = self.decom.no_rewrite_decompose(claim, q_ans)
+        # print(f"拆解为 {len(sub_claims)} 个子句：")
+        # for i, sc in enumerate(sub_claims):
+        #     print(f"  子句 {i+1}: {sc}")
 
         verdicts = []
         for sc in sub_claims:
@@ -85,7 +85,7 @@ class BiDeV:
                 filtered_ev = self.filt.filter_paragraphs(sc_evidences, sc)
             else:
                 filtered_ev = self.filt.filter_paragraphs(gold_evidences, sc)
-            result = self.check.verify(sc, filtered_ev)
+            result = self.check.verify(sc, gold_evidences)
             print(f"子句判断结果：{result}")
             verdicts.append(result.strip().lower())
 
